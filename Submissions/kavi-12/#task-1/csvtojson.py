@@ -1,6 +1,10 @@
 import csv, json
-csv_path = "movies.csv"
-json_path = "movies.json"
+import pandas as pd
+import os
+#os.chdir("..//..")
+csv_path = "../../../Task_1/movies.csv"
+#print(csv_path)
+json_path = "comedy_movies.json"
 
 data = {}
 with open(csv_path,  encoding='utf-8') as csvfile:
