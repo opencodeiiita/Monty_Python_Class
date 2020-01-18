@@ -1,6 +1,9 @@
-import csv, json
+import csv, json,os
 
+current = os.getcwd()
+os.chdir("../../../Task_1")
 csv_file = open("movies.csv", encoding="utf-8")
+os.chdir(current)
 json_file = open("csv_to_json_converted.json","w")
 
 csv_reader = csv.reader(csv_file);
