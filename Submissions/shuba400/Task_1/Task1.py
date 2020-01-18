@@ -1,6 +1,6 @@
 import csv,json
 
-file = open('movies.csv', encoding = "utf8",errors = 'ignore')
+file = open('../../../Task_1/movies.csv', encoding = "utf8",errors = 'ignore')
 
 data = []
 genre = 'Comedy'
