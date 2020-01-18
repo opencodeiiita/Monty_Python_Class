@@ -1,7 +1,7 @@
 import os
 import shutil
 
-os.chdir("../../../Task_2/My_Files")
+os.chdir("../../../Task_2/My_Files")    #change current folder
 
 for filename in os.listdir():
     if os.path.isfile(filename):
