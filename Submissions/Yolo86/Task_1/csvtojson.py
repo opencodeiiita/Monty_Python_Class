@@ -5,10 +5,16 @@ with open('C:\\Users\\SAKSHAM\\Desktop\\OpenCode20\\2-Python t1\\Monty_Python_Cl
 	fieldnames = ("movieId","title","genres")
 	csv_reader = csv.DictReader(csv_file,fieldnames)
 
+	
+		
+		
+
 	with open('csv2json.json','w', encoding="utf8") as json_file:
 
 		for line in csv_reader:
+			b = line['genres'].split('|')
 
-			if line['genres'] == 'Comedy':
-				json.dump(line,json_file,indent = 4)
-				json_file.write('\n')
+			for c in b:
+				if c == 'Comedy':
+					json.dump(line,json_file,indent = 4)
+					json_file.write('\n')
