@@ -22,5 +22,3 @@ msg = 'Subject:' + subject + '\n' + message
 
 smtp_obj.sendmail(from_add, to_add, msg)
 
-# Quiting the server
-smtp_obj.quit()
