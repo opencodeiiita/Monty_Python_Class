@@ -10,7 +10,7 @@ for i in mylist[0][2]:
     extensions = re.findall(pattern, i)
     file_name = extensions[1][1:].upper()
     if path.exists(file_name):
-        shutil.move(os.getcwd()+"\\My_Files\\"+i, os.getcwd()+ "\\" + file_name)
+        shutil.move(os.path.join(os.getcwd(), "My_Files",i), os.path.join(os.getcwd(), file_name))
     else:
         os.mkdir(file_name)
-        shutil.move(os.getcwd() + "\\My_Files\\" +i, os.getcwd() + "\\" + file_name)
+        shutil.move(os.path.join(os.getcwd(), "My_Files",i), os.path.join(os.getcwd(), file_name))
