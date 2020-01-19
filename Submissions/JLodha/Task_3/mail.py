@@ -1,7 +1,12 @@
-import smtplib 
+import smtplib,getpass
 connection = smtplib.SMTP('smtp.gmail.com', 587)  
 connection.starttls()
-connection.login("iit2019134@iiita.ac.in", "PASSWORDHERE")
-message = "IIITian"
-connection.sendmail("iit2019134@iiita.ac.in", "iit2019132@iiita.ac.in", message)  
+id = getpass.getpass('id:')
+pwd = getpass.getpass('password: ')
+connection.login(id, pwd)
+rec = input("Enter the person whom you want to send the mail: ")
+subject = input("Subject: ")
+message = input('Message to Send: ')
+finalmess = 'Subject: ' + subject+  "\n" + "Message: " + message
+connection.sendmail(id,rec, finalmess)  
 connection.quit() 
