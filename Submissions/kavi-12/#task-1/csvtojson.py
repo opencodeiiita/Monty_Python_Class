@@ -12,6 +12,7 @@ with open(csv_path,  encoding='utf-8') as csvfile:
     for csvrow in csvReader:
         
         obj = {
+            "movieId"; csvrow["movieId"],
             "title": csvrow["title"],
             "genres": csvrow["genres"]
             
