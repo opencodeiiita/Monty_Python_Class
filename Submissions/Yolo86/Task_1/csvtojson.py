@@ -2,11 +2,7 @@ import csv
 import json
 import os
 
-path1 = os.getcwd()
-for i in range(3):
-	path1 = os.path.split(path1)[0]
-path1 = os.path.join(path1,"","Task_1\movies.csv")
-
+path1 = '..\..\..\Task_1\movies.csv'
 
 dict = []
 
@@ -23,3 +19,8 @@ with open(path1,'r', encoding="utf8") as csv_file:
 					
 with open('csv2json.json','w',encoding = "utf8") as json_file:
 	json.dump(dict,json_file,indent = 4)
+
+
+
+
+
