@@ -4,7 +4,7 @@ import os.path
 os.chdir('My_Files')
 for abc in os.listdir():
     if os.path.isfile(abc):
-        extension_of_file=os.path.splitext(abc)[1]
+        extension_of_file=abc.split('.')[1]
         folder_to_extract=extension_of_file.upper()
         if os.path.exists(folder_to_extract):
             shutil.move(abc, folder_to_extract)
