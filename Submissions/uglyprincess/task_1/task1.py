@@ -1,6 +1,6 @@
 import csv, json
 
-csvFilePath = "movies.csv"
+csvFilePath = "../../../Task_1/movies.csv"
 jsonFilePath = "try.json"
 
 data = {}
