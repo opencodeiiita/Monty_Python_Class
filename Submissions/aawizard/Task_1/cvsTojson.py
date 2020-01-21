@@ -1,5 +1,5 @@
 import csv, json
-csvFilePath='E:\openCode\Monty_Python_Class\Task_1\movies.csv'
+csvFilePath='..\..\Monty_Python_Class\Task_1\movies.csv'
 jasonFilePath="movieList.json"
 data={}
 with open(csvFilePath,encoding = "utf8",errors = 'ignore') as csvFile:
