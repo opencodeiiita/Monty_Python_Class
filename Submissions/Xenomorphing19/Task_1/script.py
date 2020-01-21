@@ -6,7 +6,7 @@ def read_from_file(csv_file):
         data = list(reader)
     return data
 
-data_from_first_csv = read_from_file("movies.csv")
+data_from_first_csv = read_from_file("../../../Task_1/movies.csv")
 
 output_data = []
 i=int(1)
