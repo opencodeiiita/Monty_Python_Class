@@ -12,3 +12,4 @@ Welcome to Monty's Python Class where Monty will help you in learning Basic Pyth
 
 * Eg: my user name is deepakDOTexe so my submission for task 1 will be in submissions / deepakDOTexe /task_#/your_files_for_submission
 
+**Note :** Create Separate PRs for each task to get points accordingly.
