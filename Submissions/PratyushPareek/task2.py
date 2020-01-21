@@ -1,15 +1,16 @@
 import shutil
 import os
 
+s = '..\\...\\Monty_Python_Class\\Task_2\\My_Files\\'
  
-for folders, subfolders ,files in os.walk("..\\...\\Monty_Python_Class\\Task_2\\My_Files\\'):
+for folders, subfolders ,files in os.walk(s):
     for file in files:
         name, ext = os.path.splitext(file)
-        if os.path.exists('..\\...\\Monty_Python_Class\\Task_2\\My_Files\\'+ (ext.upper())[1:]):
-            shutil.move('..\\...\\Monty_Python_Class\\Task_2\\My_Files\\'+str(file), '..\\...\\Monty_Python_Class\\Task_2\\My_Files\\'+(ext.upper())[1:])
+        if os.path.exists(os.path.join(s,(ext.upper())[1:])):
+            shutil.move(os.path.join(s,file), os.path.join(s,(ext.upper())[1:]))
         else:
-            os.mkdir('..\\...\\Monty_Python_Class\\Task_2\\My_Files\\'+(ext.upper())[1:])
-            shutil.move('..\\...\\Monty_Python_Class\\Task_2\\My_Files\\'+str(file), '..\\...\\Monty_Python_Class\\Task_2\\My_Files\\'+(ext.upper())[1:])
+            os.mkdir(os.path.join(s,(ext.upper())[1:]))
+            shutil.move(os.path.join(s,file), os.path.join(s,(ext.upper())[1:]))
 
 
 
