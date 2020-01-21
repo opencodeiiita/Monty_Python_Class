@@ -1,6 +1,6 @@
 import csv, json
 
-csvFilesPath = "/home/pranshu/Monty_Python_Class/Task_1/movies.csv"
+csvFilesPath = "../../../Task_1/movies.csv"
 jsonFilePath = "Comedy.json"
 
 datacsv = {}
