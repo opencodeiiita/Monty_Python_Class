@@ -1,31 +1,19 @@
 import os, shutil
-
-# path = "C:/Users/Aaryan/Desktop/Inconspicuous Folder/IT/Python/lol"
-
-# try:
-# 	os.mkdir(path)
-# except OSError:
-# 	print("Creation of the directory %s failed." %path)
-# else:
-# 	print("Successfully created the directory %s." %path)
-
-entries = os.listdir('../../../Task_2/My_Files')
-
+path = 'C:/Users/Aaryan/Desktop/Inconspicuous Folder/FOSS/Monty_Python_Class/Task_2/My_Files'
+entries = os.listdir(path)
 for entry in entries:
-	# print(entry)
-	file_name,file_extension = os.path.splitext('../../../Task_2/My_Files/%s' %entry)
-	# print(file_extension)
-	if os.path.exists("../../../Task_2/My_Files/%s" %str(file_extension)[1:]):
-		shutil.move("../../../Task_2/My_Files/%s" %entry, "../../../Task_2/My_Files/%s" %str(file_extension)[1:])
+	file_name,file_extension = os.path.splitext(entry)
+	file_extension = file_extension[1:]
+	if os.path.exists(os.path.join(path,file_extension)):
+		shutil.move(os.path.join(path,entry), os.path.join(path,file_extension))
 	else:
-		path = "../../../Task_2/My_Files/%s" %str(file_extension[1:])
 		try:
 			os.mkdir(path)
-		# except OSError:
-		# 	print("Creation of the directory %s failed." %path)
-		# else:
-		# 	print("Successfully created the directory %s." %path)
-		shutil.move("../../../Task_2/My_Files/%s" %entry, "../../../Task_2/My_Files/%s" %str(file_extension)[1:])
+		except OSError:
+			print("Creation of the directory %s failed." %path)
+		else:
+			print("Successfully created the directory %s." %path)
+		shutil.move(os.path.join(path,entry), os.path.join(path,file_extension))
 
 
 
