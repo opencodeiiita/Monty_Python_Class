@@ -15,11 +15,11 @@ for x in l:
     ex = ex[1:] 
 
 	
-    if os.path.exists(path+'/'+ex):
-        shutil.move(path+'/'+x, path+'/'+ex+'/'+x) 
+    if os.path.exists(os.path.join(path,ex)):
+        shutil.move(os.path.join(path,x), os.path.join(path,ex,x) )
 
 	
     else:
-        os.makedirs(path+'/'+ex) 
-        shutil.move(path+'/'+x, path+'/'+ex+'/'+x) 
+        os.makedirs(os.path.join(path,ex) )
+        shutil.move(os.path.join(path,x), os.path.join(path,ex,x) )
 
