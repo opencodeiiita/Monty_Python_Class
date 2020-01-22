@@ -18,3 +18,4 @@ mesg = input('Message: ')
 msg = 'Subject:' + subj + '\n' + mesg
 
 smtp_obj.sendmail(email, send_add, msg)
+smtp_obj.quit()
