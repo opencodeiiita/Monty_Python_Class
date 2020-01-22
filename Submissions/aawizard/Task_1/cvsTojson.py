@@ -1,5 +1,5 @@
-import csv, json
-csvFilePath='..\..\Monty_Python_Class\Task_1\movies.csv'
+import csv, json,os
+csvFilePath= os.path.join("Monty_Python_Class","Task_1","movies.csv")
 jasonFilePath="movieList.json"
 data={}
 with open(csvFilePath,encoding = "utf8",errors = 'ignore') as csvFile:
