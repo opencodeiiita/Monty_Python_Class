@@ -1,3 +1,4 @@
+
 import csv, json
 csvFilePath='movies.csv'
 jasonFilePath="movieList.json"
@@ -9,7 +10,7 @@ with open(csvFilePath,encoding = "utf8",errors = 'ignore') as csvFile:
         movieId=csvRow["movieId"]
         data[movieId]=csvRow
         if csvRow["genres"]=="Comedy":
-            print(csvRow["genres"])
+            
             comedy[movieId]=csvRow
 		      
 with open('movies.json','w') as newfile:
