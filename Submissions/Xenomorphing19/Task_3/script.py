@@ -12,11 +12,9 @@ for i in range(0,x):
 print('Enter the message:')
 mes=raw_input()
 s = smtplib.SMTP('smtp.gmail.com', 587)
-s.starttls() 
+s.starttls()
 s.login(str(user),str(pwd))
-for i in range(len(li)):    
+for i in range(len(li)):  
     message =str(mes)
     s.sendmail(str(user),l[i],message) 
-    s.quit() 
-
-
+s.quit() 
