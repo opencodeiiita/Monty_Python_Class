@@ -1,0 +1,4732 @@
+{
+    "5": {
+        "movieId": "5",
+        "title": "Father of the Bride Part II (1995)",
+        "genres": "Comedy"
+    },
+    "18": {
+        "movieId": "18",
+        "title": "Four Rooms (1995)",
+        "genres": "Comedy"
+    },
+    "19": {
+        "movieId": "19",
+        "title": "Ace Ventura: When Nature Calls (1995)",
+        "genres": "Comedy"
+    },
+    "65": {
+        "movieId": "65",
+        "title": "Bio-Dome (1996)",
+        "genres": "Comedy"
+    },
+    "69": {
+        "movieId": "69",
+        "title": "Friday (1995)",
+        "genres": "Comedy"
+    },
+    "88": {
+        "movieId": "88",
+        "title": "Black Sheep (1996)",
+        "genres": "Comedy"
+    },
+    "102": {
+        "movieId": "102",
+        "title": "Mr. Wrong (1996)",
+        "genres": "Comedy"
+    },
+    "104": {
+        "movieId": "104",
+        "title": "Happy Gilmore (1996)",
+        "genres": "Comedy"
+    },
+    "119": {
+        "movieId": "119",
+        "title": "Steal Big, Steal Little (1995)",
+        "genres": "Comedy"
+    },
+    "125": {
+        "movieId": "125",
+        "title": "Flirting With Disaster (1996)",
+        "genres": "Comedy"
+    },
+    "135": {
+        "movieId": "135",
+        "title": "Down Periscope (1996)",
+        "genres": "Comedy"
+    },
+    "141": {
+        "movieId": "141",
+        "title": "Birdcage, The (1996)",
+        "genres": "Comedy"
+    },
+    "144": {
+        "movieId": "144",
+        "title": "Brothers McMullen, The (1995)",
+        "genres": "Comedy"
+    },
+    "174": {
+        "movieId": "174",
+        "title": "Jury Duty (1995)",
+        "genres": "Comedy"
+    },
+    "176": {
+        "movieId": "176",
+        "title": "Living in Oblivion (1995)",
+        "genres": "Comedy"
+    },
+    "187": {
+        "movieId": "187",
+        "title": "Party Girl (1995)",
+        "genres": "Comedy"
+    },
+    "203": {
+        "movieId": "203",
+        "title": "To Wong Foo, Thanks for Everything! Julie Newmar (1995)",
+        "genres": "Comedy"
+    },
+    "216": {
+        "movieId": "216",
+        "title": "Billy Madison (1995)",
+        "genres": "Comedy"
+    },
+    "223": {
+        "movieId": "223",
+        "title": "Clerks (1994)",
+        "genres": "Comedy"
+    },
+    "228": {
+        "movieId": "228",
+        "title": "Destiny Turns on the Radio (1995)",
+        "genres": "Comedy"
+    },
+    "234": {
+        "movieId": "234",
+        "title": "Exit to Eden (1994)",
+        "genres": "Comedy"
+    },
+    "248": {
+        "movieId": "248",
+        "title": "Houseguest (1994)",
+        "genres": "Comedy"
+    },
+    "255": {
+        "movieId": "255",
+        "title": "Jerky Boys, The (1995)",
+        "genres": "Comedy"
+    },
+    "267": {
+        "movieId": "267",
+        "title": "Major Payne (1995)",
+        "genres": "Comedy"
+    },
+    "274": {
+        "movieId": "274",
+        "title": "Man of the House (1995)",
+        "genres": "Comedy"
+    },
+    "275": {
+        "movieId": "275",
+        "title": "Mixed Nuts (1994)",
+        "genres": "Comedy"
+    },
+    "278": {
+        "movieId": "278",
+        "title": "Miami Rhapsody (1995)",
+        "genres": "Comedy"
+    },
+    "305": {
+        "movieId": "305",
+        "title": "Ready to Wear (Pret-A-Porter) (1994)",
+        "genres": "Comedy"
+    },
+    "310": {
+        "movieId": "310",
+        "title": "Rent-a-Kid (1995)",
+        "genres": "Comedy"
+    },
+    "312": {
+        "movieId": "312",
+        "title": "Stuart Saves His Family (1995)",
+        "genres": "Comedy"
+    },
+    "325": {
+        "movieId": "325",
+        "title": "National Lampoon's Senior Trip (1995)",
+        "genres": "Comedy"
+    },
+    "333": {
+        "movieId": "333",
+        "title": "Tommy Boy (1995)",
+        "genres": "Comedy"
+    },
+    "342": {
+        "movieId": "342",
+        "title": "Muriel's Wedding (1994)",
+        "genres": "Comedy"
+    },
+    "344": {
+        "movieId": "344",
+        "title": "Ace Ventura: Pet Detective (1994)",
+        "genres": "Comedy"
+    },
+    "348": {
+        "movieId": "348",
+        "title": "Bullets Over Broadway (1994)",
+        "genres": "Comedy"
+    },
+    "413": {
+        "movieId": "413",
+        "title": "Airheads (1994)",
+        "genres": "Comedy"
+    },
+    "414": {
+        "movieId": "414",
+        "title": "Air Up There, The (1994)",
+        "genres": "Comedy"
+    },
+    "419": {
+        "movieId": "419",
+        "title": "Beverly Hillbillies, The (1993)",
+        "genres": "Comedy"
+    },
+    "429": {
+        "movieId": "429",
+        "title": "Cabin Boy (1994)",
+        "genres": "Comedy"
+    },
+    "433": {
+        "movieId": "433",
+        "title": "Clean Slate (1994)",
+        "genres": "Comedy"
+    },
+    "437": {
+        "movieId": "437",
+        "title": "Cops and Robbersons (1994)",
+        "genres": "Comedy"
+    },
+    "441": {
+        "movieId": "441",
+        "title": "Dazed and Confused (1993)",
+        "genres": "Comedy"
+    },
+    "445": {
+        "movieId": "445",
+        "title": "Fatal Instinct (1993)",
+        "genres": "Comedy"
+    },
+    "449": {
+        "movieId": "449",
+        "title": "Fear of a Black Hat (1994)",
+        "genres": "Comedy"
+    },
+    "460": {
+        "movieId": "460",
+        "title": "Getting Even with Dad (1994)",
+        "genres": "Comedy"
+    },
+    "467": {
+        "movieId": "467",
+        "title": "Live Nude Girls (1995)",
+        "genres": "Comedy"
+    },
+    "470": {
+        "movieId": "470",
+        "title": "House Party 3 (1994)",
+        "genres": "Comedy"
+    },
+    "471": {
+        "movieId": "471",
+        "title": "Hudsucker Proxy, The (1994)",
+        "genres": "Comedy"
+    },
+    "486": {
+        "movieId": "486",
+        "title": "Life with Mikey (1993)",
+        "genres": "Comedy"
+    },
+    "489": {
+        "movieId": "489",
+        "title": "Made in America (1993)",
+        "genres": "Comedy"
+    },
+    "505": {
+        "movieId": "505",
+        "title": "North (1994)",
+        "genres": "Comedy"
+    },
+    "514": {
+        "movieId": "514",
+        "title": "Ref, The (1994)",
+        "genres": "Comedy"
+    },
+    "518": {
+        "movieId": "518",
+        "title": "Road to Wellville, The (1994)",
+        "genres": "Comedy"
+    },
+    "520": {
+        "movieId": "520",
+        "title": "Robin Hood: Men in Tights (1993)",
+        "genres": "Comedy"
+    },
+    "564": {
+        "movieId": "564",
+        "title": "Chasers (1994)",
+        "genres": "Comedy"
+    },
+    "585": {
+        "movieId": "585",
+        "title": "Brady Bunch Movie, The (1995)",
+        "genres": "Comedy"
+    },
+    "612": {
+        "movieId": "612",
+        "title": "Pallbearer, The (1996)",
+        "genres": "Comedy"
+    },
+    "619": {
+        "movieId": "619",
+        "title": "Ed (1996)",
+        "genres": "Comedy"
+    },
+    "626": {
+        "movieId": "626",
+        "title": "Thin Line Between Love and Hate, A (1996)",
+        "genres": "Comedy"
+    },
+    "633": {
+        "movieId": "633",
+        "title": "Denise Calls Up (1995)",
+        "genres": "Comedy"
+    },
+    "634": {
+        "movieId": "634",
+        "title": "Theodore Rex (1995)",
+        "genres": "Comedy"
+    },
+    "637": {
+        "movieId": "637",
+        "title": "Sgt. Bilko (1996)",
+        "genres": "Comedy"
+    },
+    "656": {
+        "movieId": "656",
+        "title": "Eddie (1996)",
+        "genres": "Comedy"
+    },
+    "663": {
+        "movieId": "663",
+        "title": "Kids in the Hall: Brain Candy (1996)",
+        "genres": "Comedy"
+    },
+    "700": {
+        "movieId": "700",
+        "title": "Angus (1995)",
+        "genres": "Comedy"
+    },
+    "710": {
+        "movieId": "710",
+        "title": "Celtic Pride (1996)",
+        "genres": "Comedy"
+    },
+    "719": {
+        "movieId": "719",
+        "title": "Multiplicity (1996)",
+        "genres": "Comedy"
+    },
+    "725": {
+        "movieId": "725",
+        "title": "Great White Hype, The (1996)",
+        "genres": "Comedy"
+    },
+    "728": {
+        "movieId": "728",
+        "title": "Cold Comfort Farm (1995)",
+        "genres": "Comedy"
+    },
+    "743": {
+        "movieId": "743",
+        "title": "Spy Hard (1996)",
+        "genres": "Comedy"
+    },
+    "747": {
+        "movieId": "747",
+        "title": "Stupids, The (1996)",
+        "genres": "Comedy"
+    },
+    "785": {
+        "movieId": "785",
+        "title": "Kingpin (1996)",
+        "genres": "Comedy"
+    },
+    "813": {
+        "movieId": "813",
+        "title": "Larger Than Life (1996)",
+        "genres": "Comedy"
+    },
+    "818": {
+        "movieId": "818",
+        "title": "Very Brady Sequel, A (1996)",
+        "genres": "Comedy"
+    },
+    "830": {
+        "movieId": "830",
+        "title": "First Wives Club, The (1996)",
+        "genres": "Comedy"
+    },
+    "833": {
+        "movieId": "833",
+        "title": "High School High (1996)",
+        "genres": "Comedy"
+    },
+    "870": {
+        "movieId": "870",
+        "title": "Gone Fishin' (1997)",
+        "genres": "Comedy"
+    },
+    "921": {
+        "movieId": "921",
+        "title": "My Favorite Year (1982)",
+        "genres": "Comedy"
+    },
+    "927": {
+        "movieId": "927",
+        "title": "Women, The (1939)",
+        "genres": "Comedy"
+    },
+    "934": {
+        "movieId": "934",
+        "title": "Father of the Bride (1950)",
+        "genres": "Comedy"
+    },
+    "1020": {
+        "movieId": "1020",
+        "title": "Cool Runnings (1993)",
+        "genres": "Comedy"
+    },
+    "1080": {
+        "movieId": "1080",
+        "title": "Monty Python's Life of Brian (1979)",
+        "genres": "Comedy"
+    },
+    "1091": {
+        "movieId": "1091",
+        "title": "Weekend at Bernie's (1989)",
+        "genres": "Comedy"
+    },
+    "1107": {
+        "movieId": "1107",
+        "title": "Loser (1991)",
+        "genres": "Comedy"
+    },
+    "1135": {
+        "movieId": "1135",
+        "title": "Private Benjamin (1980)",
+        "genres": "Comedy"
+    },
+    "1167": {
+        "movieId": "1167",
+        "title": "Dear God (1996)",
+        "genres": "Comedy"
+    },
+    "1171": {
+        "movieId": "1171",
+        "title": "Bob Roberts (1992)",
+        "genres": "Comedy"
+    },
+    "1180": {
+        "movieId": "1180",
+        "title": "Hear My Song (1991)",
+        "genres": "Comedy"
+    },
+    "1194": {
+        "movieId": "1194",
+        "title": "Cheech and Chong's Up in Smoke (1978)",
+        "genres": "Comedy"
+    },
+    "1202": {
+        "movieId": "1202",
+        "title": "Withnail & I (1987)",
+        "genres": "Comedy"
+    },
+    "1238": {
+        "movieId": "1238",
+        "title": "Local Hero (1983)",
+        "genres": "Comedy"
+    },
+    "1285": {
+        "movieId": "1285",
+        "title": "Heathers (1989)",
+        "genres": "Comedy"
+    },
+    "1288": {
+        "movieId": "1288",
+        "title": "This Is Spinal Tap (1984)",
+        "genres": "Comedy"
+    },
+    "1297": {
+        "movieId": "1297",
+        "title": "Real Genius (1985)",
+        "genres": "Comedy"
+    },
+    "1390": {
+        "movieId": "1390",
+        "title": "My Fellow Americans (1996)",
+        "genres": "Comedy"
+    },
+    "1394": {
+        "movieId": "1394",
+        "title": "Raising Arizona (1987)",
+        "genres": "Comedy"
+    },
+    "1414": {
+        "movieId": "1414",
+        "title": "Mother (1996)",
+        "genres": "Comedy"
+    },
+    "1425": {
+        "movieId": "1425",
+        "title": "Fierce Creatures (1997)",
+        "genres": "Comedy"
+    },
+    "1439": {
+        "movieId": "1439",
+        "title": "Meet Wally Sparks (1997)",
+        "genres": "Comedy"
+    },
+    "1440": {
+        "movieId": "1440",
+        "title": "Amos & Andrew (1993)",
+        "genres": "Comedy"
+    },
+    "1449": {
+        "movieId": "1449",
+        "title": "Waiting for Guffman (1996)",
+        "genres": "Comedy"
+    },
+    "1456": {
+        "movieId": "1456",
+        "title": "Pest, The (1997)",
+        "genres": "Comedy"
+    },
+    "1461": {
+        "movieId": "1461",
+        "title": "Vegas Vacation (National Lampoon's Las Vegas Vacation) (1997)",
+        "genres": "Comedy"
+    },
+    "1485": {
+        "movieId": "1485",
+        "title": "Liar Liar (1997)",
+        "genres": "Comedy"
+    },
+    "1490": {
+        "movieId": "1490",
+        "title": "B*A*P*S (1997)",
+        "genres": "Comedy"
+    },
+    "1503": {
+        "movieId": "1503",
+        "title": "8 Heads in a Duffel Bag (1997)",
+        "genres": "Comedy"
+    },
+    "1513": {
+        "movieId": "1513",
+        "title": "Romy and Michele's High School Reunion (1997)",
+        "genres": "Comedy"
+    },
+    "1516": {
+        "movieId": "1516",
+        "title": "Children of the Revolution (1996)",
+        "genres": "Comedy"
+    },
+    "1526": {
+        "movieId": "1526",
+        "title": "Fathers' Day (1997)",
+        "genres": "Comedy"
+    },
+    "1546": {
+        "movieId": "1546",
+        "title": "Schizopolis (1996)",
+        "genres": "Comedy"
+    },
+    "1581": {
+        "movieId": "1581",
+        "title": "Out to Sea (1997)",
+        "genres": "Comedy"
+    },
+    "1585": {
+        "movieId": "1585",
+        "title": "Love Serenade (1996)",
+        "genres": "Comedy"
+    },
+    "1602": {
+        "movieId": "1602",
+        "title": "Leave It to Beaver (1997)",
+        "genres": "Comedy"
+    },
+    "1612": {
+        "movieId": "1612",
+        "title": "Kiss Me, Guido (1997)",
+        "genres": "Comedy"
+    },
+    "1614": {
+        "movieId": "1614",
+        "title": "In & Out (1997)",
+        "genres": "Comedy"
+    },
+    "1665": {
+        "movieId": "1665",
+        "title": "Bean (1997)",
+        "genres": "Comedy"
+    },
+    "1679": {
+        "movieId": "1679",
+        "title": "Chairman of the Board (1998)",
+        "genres": "Comedy"
+    },
+    "1703": {
+        "movieId": "1703",
+        "title": "For Richer or Poorer (1997)",
+        "genres": "Comedy"
+    },
+    "1731": {
+        "movieId": "1731",
+        "title": "Mr. Magoo (1997)",
+        "genres": "Comedy"
+    },
+    "1746": {
+        "movieId": "1746",
+        "title": "Senseless (1998)",
+        "genres": "Comedy"
+    },
+    "1747": {
+        "movieId": "1747",
+        "title": "Wag the Dog (1997)",
+        "genres": "Comedy"
+    },
+    "1753": {
+        "movieId": "1753",
+        "title": "Half Baked (1998)",
+        "genres": "Comedy"
+    },
+    "1760": {
+        "movieId": "1760",
+        "title": "Spice World (1997)",
+        "genres": "Comedy"
+    },
+    "1793": {
+        "movieId": "1793",
+        "title": "Welcome to Woop-Woop (1997)",
+        "genres": "Comedy"
+    },
+    "1837": {
+        "movieId": "1837",
+        "title": "Odd Couple II, The (1998)",
+        "genres": "Comedy"
+    },
+    "1839": {
+        "movieId": "1839",
+        "title": "My Giant (1998)",
+        "genres": "Comedy"
+    },
+    "1855": {
+        "movieId": "1855",
+        "title": "Krippendorf's Tribe (1998)",
+        "genres": "Comedy"
+    },
+    "1857": {
+        "movieId": "1857",
+        "title": "Real Blonde, The (1997)",
+        "genres": "Comedy"
+    },
+    "1863": {
+        "movieId": "1863",
+        "title": "Major League: Back to the Minors (1998)",
+        "genres": "Comedy"
+    },
+    "1875": {
+        "movieId": "1875",
+        "title": "Clockwatchers (1997)",
+        "genres": "Comedy"
+    },
+    "1911": {
+        "movieId": "1911",
+        "title": "Dr. Dolittle (1998)",
+        "genres": "Comedy"
+    },
+    "1966": {
+        "movieId": "1966",
+        "title": "Metropolitan (1990)",
+        "genres": "Comedy"
+    },
+    "2007": {
+        "movieId": "2007",
+        "title": "Polish Wedding (1998)",
+        "genres": "Comedy"
+    },
+    "2060": {
+        "movieId": "2060",
+        "title": "BASEketball (1998)",
+        "genres": "Comedy"
+    },
+    "2072": {
+        "movieId": "2072",
+        "title": "'burbs, The (1989)",
+        "genres": "Comedy"
+    },
+    "2073": {
+        "movieId": "2073",
+        "title": "Fandango (1985)",
+        "genres": "Comedy"
+    },
+    "2109": {
+        "movieId": "2109",
+        "title": "Jerk, The (1979)",
+        "genres": "Comedy"
+    },
+    "2111": {
+        "movieId": "2111",
+        "title": "Man with Two Brains, The (1983)",
+        "genres": "Comedy"
+    },
+    "2151": {
+        "movieId": "2151",
+        "title": "Gods Must Be Crazy II, The (1989)",
+        "genres": "Comedy"
+    },
+    "2169": {
+        "movieId": "2169",
+        "title": "Dead Man on Campus (1998)",
+        "genres": "Comedy"
+    },
+    "2195": {
+        "movieId": "2195",
+        "title": "Dirty Work (1998)",
+        "genres": "Comedy"
+    },
+    "2241": {
+        "movieId": "2241",
+        "title": "Class (1983)",
+        "genres": "Comedy"
+    },
+    "2247": {
+        "movieId": "2247",
+        "title": "Married to the Mob (1988)",
+        "genres": "Comedy"
+    },
+    "2249": {
+        "movieId": "2249",
+        "title": "My Blue Heaven (1990)",
+        "genres": "Comedy"
+    },
+    "2255": {
+        "movieId": "2255",
+        "title": "Young Doctors in Love (1982)",
+        "genres": "Comedy"
+    },
+    "2261": {
+        "movieId": "2261",
+        "title": "One Crazy Summer (1986)",
+        "genres": "Comedy"
+    },
+    "2286": {
+        "movieId": "2286",
+        "title": "Fiendish Plot of Dr. Fu Manchu, The (1980)",
+        "genres": "Comedy"
+    },
+    "2295": {
+        "movieId": "2295",
+        "title": "Impostors, The (1998)",
+        "genres": "Comedy"
+    },
+    "2296": {
+        "movieId": "2296",
+        "title": "Night at the Roxbury, A (1998)",
+        "genres": "Comedy"
+    },
+    "2300": {
+        "movieId": "2300",
+        "title": "Producers, The (1968)",
+        "genres": "Comedy"
+    },
+    "2302": {
+        "movieId": "2302",
+        "title": "My Cousin Vinny (1992)",
+        "genres": "Comedy"
+    },
+    "2306": {
+        "movieId": "2306",
+        "title": "Holy Man (1998)",
+        "genres": "Comedy"
+    },
+    "2325": {
+        "movieId": "2325",
+        "title": "Orgazmo (1997)",
+        "genres": "Comedy"
+    },
+    "2335": {
+        "movieId": "2335",
+        "title": "Waterboy, The (1998)",
+        "genres": "Comedy"
+    },
+    "2350": {
+        "movieId": "2350",
+        "title": "Heart Condition (1990)",
+        "genres": "Comedy"
+    },
+    "2356": {
+        "movieId": "2356",
+        "title": "Celebrity (1998)",
+        "genres": "Comedy"
+    },
+    "2359": {
+        "movieId": "2359",
+        "title": "Waking Ned Devine (a.k.a. Waking Ned) (1998)",
+        "genres": "Comedy"
+    },
+    "2361": {
+        "movieId": "2361",
+        "title": "Pink Flamingos (1972)",
+        "genres": "Comedy"
+    },
+    "2372": {
+        "movieId": "2372",
+        "title": "Fletch Lives (1989)",
+        "genres": "Comedy"
+    },
+    "2375": {
+        "movieId": "2375",
+        "title": "Money Pit, The (1986)",
+        "genres": "Comedy"
+    },
+    "2390": {
+        "movieId": "2390",
+        "title": "Little Voice (1998)",
+        "genres": "Comedy"
+    },
+    "2416": {
+        "movieId": "2416",
+        "title": "Back to School (1986)",
+        "genres": "Comedy"
+    },
+    "2418": {
+        "movieId": "2418",
+        "title": "Nothing in Common (1986)",
+        "genres": "Comedy"
+    },
+    "2423": {
+        "movieId": "2423",
+        "title": "Christmas Vacation (National Lampoon's Christmas Vacation) (1989)",
+        "genres": "Comedy"
+    },
+    "2463": {
+        "movieId": "2463",
+        "title": "Ruthless People (1986)",
+        "genres": "Comedy"
+    },
+    "2472": {
+        "movieId": "2472",
+        "title": "Tough Guys (1986)",
+        "genres": "Comedy"
+    },
+    "2473": {
+        "movieId": "2473",
+        "title": "Soul Man (1986)",
+        "genres": "Comedy"
+    },
+    "2500": {
+        "movieId": "2500",
+        "title": "Jawbreaker (1999)",
+        "genres": "Comedy"
+    },
+    "2518": {
+        "movieId": "2518",
+        "title": "Night Shift (1982)",
+        "genres": "Comedy"
+    },
+    "2539": {
+        "movieId": "2539",
+        "title": "Analyze This (1999)",
+        "genres": "Comedy"
+    },
+    "2552": {
+        "movieId": "2552",
+        "title": "My Boyfriend's Back (1993)",
+        "genres": "Comedy"
+    },
+    "2555": {
+        "movieId": "2555",
+        "title": "Baby Geniuses (1999)",
+        "genres": "Comedy"
+    },
+    "2567": {
+        "movieId": "2567",
+        "title": "EDtv (1999)",
+        "genres": "Comedy"
+    },
+    "2574": {
+        "movieId": "2574",
+        "title": "Out-of-Towners, The (1999)",
+        "genres": "Comedy"
+    },
+    "2593": {
+        "movieId": "2593",
+        "title": "Monster, The (Mostro, Il) (1994)",
+        "genres": "Comedy"
+    },
+    "2598": {
+        "movieId": "2598",
+        "title": "Pushing Tin (1999)",
+        "genres": "Comedy"
+    },
+    "2599": {
+        "movieId": "2599",
+        "title": "Election (1999)",
+        "genres": "Comedy"
+    },
+    "2618": {
+        "movieId": "2618",
+        "title": "Castle, The (1997)",
+        "genres": "Comedy"
+    },
+    "2623": {
+        "movieId": "2623",
+        "title": "Trippin' (1999)",
+        "genres": "Comedy"
+    },
+    "2694": {
+        "movieId": "2694",
+        "title": "Big Daddy (1999)",
+        "genres": "Comedy"
+    },
+    "2696": {
+        "movieId": "2696",
+        "title": "Dinner Game, The (D\u00eener de cons, Le) (1998)",
+        "genres": "Comedy"
+    },
+    "2718": {
+        "movieId": "2718",
+        "title": "Drop Dead Gorgeous (1999)",
+        "genres": "Comedy"
+    },
+    "2736": {
+        "movieId": "2736",
+        "title": "Brighton Beach Memoirs (1986)",
+        "genres": "Comedy"
+    },
+    "2759": {
+        "movieId": "2759",
+        "title": "Dick (1999)",
+        "genres": "Comedy"
+    },
+    "2770": {
+        "movieId": "2770",
+        "title": "Bowfinger (1999)",
+        "genres": "Comedy"
+    },
+    "2772": {
+        "movieId": "2772",
+        "title": "Detroit Rock City (1999)",
+        "genres": "Comedy"
+    },
+    "2779": {
+        "movieId": "2779",
+        "title": "Heaven Can Wait (1978)",
+        "genres": "Comedy"
+    },
+    "2786": {
+        "movieId": "2786",
+        "title": "Haunted Honeymoon (1986)",
+        "genres": "Comedy"
+    },
+    "2788": {
+        "movieId": "2788",
+        "title": "Monty Python's And Now for Something Completely Different (1971)",
+        "genres": "Comedy"
+    },
+    "2791": {
+        "movieId": "2791",
+        "title": "Airplane! (1980)",
+        "genres": "Comedy"
+    },
+    "2792": {
+        "movieId": "2792",
+        "title": "Airplane II: The Sequel (1982)",
+        "genres": "Comedy"
+    },
+    "2795": {
+        "movieId": "2795",
+        "title": "National Lampoon's Vacation (1983)",
+        "genres": "Comedy"
+    },
+    "2796": {
+        "movieId": "2796",
+        "title": "Funny Farm (1988)",
+        "genres": "Comedy"
+    },
+    "2799": {
+        "movieId": "2799",
+        "title": "Problem Child 2 (1991)",
+        "genres": "Comedy"
+    },
+    "2829": {
+        "movieId": "2829",
+        "title": "Muse, The (1999)",
+        "genres": "Comedy"
+    },
+    "2836": {
+        "movieId": "2836",
+        "title": "Outside Providence (1999)",
+        "genres": "Comedy"
+    },
+    "2860": {
+        "movieId": "2860",
+        "title": "Blue Streak (1999)",
+        "genres": "Comedy"
+    },
+    "2865": {
+        "movieId": "2865",
+        "title": "Sugar Town (1999)",
+        "genres": "Comedy"
+    },
+    "2870": {
+        "movieId": "2870",
+        "title": "Barefoot in the Park (1967)",
+        "genres": "Comedy"
+    },
+    "2891": {
+        "movieId": "2891",
+        "title": "Happy, Texas (1999)",
+        "genres": "Comedy"
+    },
+    "2907": {
+        "movieId": "2907",
+        "title": "Superstar (1999)",
+        "genres": "Comedy"
+    },
+    "2915": {
+        "movieId": "2915",
+        "title": "Risky Business (1983)",
+        "genres": "Comedy"
+    },
+    "2918": {
+        "movieId": "2918",
+        "title": "Ferris Bueller's Day Off (1986)",
+        "genres": "Comedy"
+    },
+    "2937": {
+        "movieId": "2937",
+        "title": "Palm Beach Story, The (1942)",
+        "genres": "Comedy"
+    },
+    "3014": {
+        "movieId": "3014",
+        "title": "Bustin' Loose (1981)",
+        "genres": "Comedy"
+    },
+    "3028": {
+        "movieId": "3028",
+        "title": "Taming of the Shrew, The (1967)",
+        "genres": "Comedy"
+    },
+    "3031": {
+        "movieId": "3031",
+        "title": "Repossessed (1990)",
+        "genres": "Comedy"
+    },
+    "3039": {
+        "movieId": "3039",
+        "title": "Trading Places (1983)",
+        "genres": "Comedy"
+    },
+    "3040": {
+        "movieId": "3040",
+        "title": "Meatballs (1979)",
+        "genres": "Comedy"
+    },
+    "3041": {
+        "movieId": "3041",
+        "title": "Meatballs Part II (1984)",
+        "genres": "Comedy"
+    },
+    "3042": {
+        "movieId": "3042",
+        "title": "Meatballs III (1987)",
+        "genres": "Comedy"
+    },
+    "3043": {
+        "movieId": "3043",
+        "title": "Meatballs 4 (1992)",
+        "genres": "Comedy"
+    },
+    "3048": {
+        "movieId": "3048",
+        "title": "Under the Rainbow (1981)",
+        "genres": "Comedy"
+    },
+    "3057": {
+        "movieId": "3057",
+        "title": "Where's Marlowe? (1998)",
+        "genres": "Comedy"
+    },
+    "3076": {
+        "movieId": "3076",
+        "title": "Irma la Douce (1963)",
+        "genres": "Comedy"
+    },
+    "3096": {
+        "movieId": "3096",
+        "title": "My Man Godfrey (1957)",
+        "genres": "Comedy"
+    },
+    "3120": {
+        "movieId": "3120",
+        "title": "Distinguished Gentleman, The (1992)",
+        "genres": "Comedy"
+    },
+    "3146": {
+        "movieId": "3146",
+        "title": "Deuce Bigalow: Male Gigolo (1999)",
+        "genres": "Comedy"
+    },
+    "3177": {
+        "movieId": "3177",
+        "title": "Next Friday (2000)",
+        "genres": "Comedy"
+    },
+    "3235": {
+        "movieId": "3235",
+        "title": "Where the Buffalo Roam (1980)",
+        "genres": "Comedy"
+    },
+    "3240": {
+        "movieId": "3240",
+        "title": "Big Tease, The (1999)",
+        "genres": "Comedy"
+    },
+    "3241": {
+        "movieId": "3241",
+        "title": "Cup, The (Ph\u00f6rpa) (1999)",
+        "genres": "Comedy"
+    },
+    "3243": {
+        "movieId": "3243",
+        "title": "Encino Man (1992)",
+        "genres": "Comedy"
+    },
+    "3248": {
+        "movieId": "3248",
+        "title": "Sister Act 2: Back in the Habit (1993)",
+        "genres": "Comedy"
+    },
+    "3253": {
+        "movieId": "3253",
+        "title": "Wayne's World (1992)",
+        "genres": "Comedy"
+    },
+    "3254": {
+        "movieId": "3254",
+        "title": "Wayne's World 2 (1993)",
+        "genres": "Comedy"
+    },
+    "3276": {
+        "movieId": "3276",
+        "title": "Gun Shy (2000)",
+        "genres": "Comedy"
+    },
+    "3286": {
+        "movieId": "3286",
+        "title": "Snow Day (2000)",
+        "genres": "Comedy"
+    },
+    "3302": {
+        "movieId": "3302",
+        "title": "Beautiful People (1999)",
+        "genres": "Comedy"
+    },
+    "3306": {
+        "movieId": "3306",
+        "title": "Circus, The (1928)",
+        "genres": "Comedy"
+    },
+    "3313": {
+        "movieId": "3313",
+        "title": "Class Reunion (1982)",
+        "genres": "Comedy"
+    },
+    "3324": {
+        "movieId": "3324",
+        "title": "Drowning Mona (2000)",
+        "genres": "Comedy"
+    },
+    "3341": {
+        "movieId": "3341",
+        "title": "Born Yesterday (1950)",
+        "genres": "Comedy"
+    },
+    "3385": {
+        "movieId": "3385",
+        "title": "Volunteers (1985)",
+        "genres": "Comedy"
+    },
+    "3391": {
+        "movieId": "3391",
+        "title": "Who's That Girl? (1987)",
+        "genres": "Comedy"
+    },
+    "3392": {
+        "movieId": "3392",
+        "title": "She-Devil (1989)",
+        "genres": "Comedy"
+    },
+    "3395": {
+        "movieId": "3395",
+        "title": "Nadine (1987)",
+        "genres": "Comedy"
+    },
+    "3421": {
+        "movieId": "3421",
+        "title": "Animal House (1978)",
+        "genres": "Comedy"
+    },
+    "3450": {
+        "movieId": "3450",
+        "title": "Grumpy Old Men (1993)",
+        "genres": "Comedy"
+    },
+    "3473": {
+        "movieId": "3473",
+        "title": "Jonah Who Will Be 25 in the Year 2000 (Jonas qui aura 25 ans en l'an 2000) (1976)",
+        "genres": "Comedy"
+    },
+    "3497": {
+        "movieId": "3497",
+        "title": "Max Dugan Returns (1983)",
+        "genres": "Comedy"
+    },
+    "3507": {
+        "movieId": "3507",
+        "title": "Odd Couple, The (1968)",
+        "genres": "Comedy"
+    },
+    "3511": {
+        "movieId": "3511",
+        "title": "Ready to Rumble (2000)",
+        "genres": "Comedy"
+    },
+    "3525": {
+        "movieId": "3525",
+        "title": "Bachelor Party (1984)",
+        "genres": "Comedy"
+    },
+    "3538": {
+        "movieId": "3538",
+        "title": "East is East (1999)",
+        "genres": "Comedy"
+    },
+    "3544": {
+        "movieId": "3544",
+        "title": "Shakes the Clown (1992)",
+        "genres": "Comedy"
+    },
+    "3552": {
+        "movieId": "3552",
+        "title": "Caddyshack (1980)",
+        "genres": "Comedy"
+    },
+    "3581": {
+        "movieId": "3581",
+        "title": "Human Traffic (1999)",
+        "genres": "Comedy"
+    },
+    "3596": {
+        "movieId": "3596",
+        "title": "Screwed (2000)",
+        "genres": "Comedy"
+    },
+    "3597": {
+        "movieId": "3597",
+        "title": "Whipped (2000)",
+        "genres": "Comedy"
+    },
+    "3617": {
+        "movieId": "3617",
+        "title": "Road Trip (2000)",
+        "genres": "Comedy"
+    },
+    "3619": {
+        "movieId": "3619",
+        "title": "Hollywood Knights, The (1980)",
+        "genres": "Comedy"
+    },
+    "3622": {
+        "movieId": "3622",
+        "title": "Twelve Chairs, The (1970)",
+        "genres": "Comedy"
+    },
+    "3626": {
+        "movieId": "3626",
+        "title": "8 \u00bd Women (a.k.a. 8 1/2 Women) (a.k.a. Eight and a Half Women) (1999)",
+        "genres": "Comedy"
+    },
+    "3646": {
+        "movieId": "3646",
+        "title": "Big Momma's House (2000)",
+        "genres": "Comedy"
+    },
+    "3669": {
+        "movieId": "3669",
+        "title": "Stay Tuned (1992)",
+        "genres": "Comedy"
+    },
+    "3688": {
+        "movieId": "3688",
+        "title": "Porky's (1982)",
+        "genres": "Comedy"
+    },
+    "3689": {
+        "movieId": "3689",
+        "title": "Porky's II: The Next Day (1983)",
+        "genres": "Comedy"
+    },
+    "3690": {
+        "movieId": "3690",
+        "title": "Porky's Revenge (1985)",
+        "genres": "Comedy"
+    },
+    "3691": {
+        "movieId": "3691",
+        "title": "Private School (1983)",
+        "genres": "Comedy"
+    },
+    "3712": {
+        "movieId": "3712",
+        "title": "Soapdish (1991)",
+        "genres": "Comedy"
+    },
+    "3760": {
+        "movieId": "3760",
+        "title": "Kentucky Fried Movie, The (1977)",
+        "genres": "Comedy"
+    },
+    "3773": {
+        "movieId": "3773",
+        "title": "House Party (1990)",
+        "genres": "Comedy"
+    },
+    "3786": {
+        "movieId": "3786",
+        "title": "But I'm a Cheerleader (1999)",
+        "genres": "Comedy"
+    },
+    "3787": {
+        "movieId": "3787",
+        "title": "Shower (Xizao) (1999)",
+        "genres": "Comedy"
+    },
+    "3809": {
+        "movieId": "3809",
+        "title": "What About Bob? (1991)",
+        "genres": "Comedy"
+    },
+    "3812": {
+        "movieId": "3812",
+        "title": "Everything You Always Wanted to Know About Sex * But Were Afraid to Ask (1972)",
+        "genres": "Comedy"
+    },
+    "3814": {
+        "movieId": "3814",
+        "title": "Love and Death (1975)",
+        "genres": "Comedy"
+    },
+    "3819": {
+        "movieId": "3819",
+        "title": "Tampopo (1985)",
+        "genres": "Comedy"
+    },
+    "3821": {
+        "movieId": "3821",
+        "title": "Nutty Professor II: The Klumps (2000)",
+        "genres": "Comedy"
+    },
+    "3831": {
+        "movieId": "3831",
+        "title": "Saving Grace (2000)",
+        "genres": "Comedy"
+    },
+    "3846": {
+        "movieId": "3846",
+        "title": "Easy Money (1983)",
+        "genres": "Comedy"
+    },
+    "3851": {
+        "movieId": "3851",
+        "title": "I'm the One That I Want (2000)",
+        "genres": "Comedy"
+    },
+    "3852": {
+        "movieId": "3852",
+        "title": "Tao of Steve, The (2000)",
+        "genres": "Comedy"
+    },
+    "3858": {
+        "movieId": "3858",
+        "title": "Cecil B. DeMented (2000)",
+        "genres": "Comedy"
+    },
+    "3861": {
+        "movieId": "3861",
+        "title": "Replacements, The (2000)",
+        "genres": "Comedy"
+    },
+    "3862": {
+        "movieId": "3862",
+        "title": "About Adam (2000)",
+        "genres": "Comedy"
+    },
+    "3869": {
+        "movieId": "3869",
+        "title": "Naked Gun 2 1/2: The Smell of Fear, The (1991)",
+        "genres": "Comedy"
+    },
+    "3882": {
+        "movieId": "3882",
+        "title": "Bring It On (2000)",
+        "genres": "Comedy"
+    },
+    "3884": {
+        "movieId": "3884",
+        "title": "Crew, The (2000)",
+        "genres": "Comedy"
+    },
+    "3911": {
+        "movieId": "3911",
+        "title": "Best in Show (2000)",
+        "genres": "Comedy"
+    },
+    "3922": {
+        "movieId": "3922",
+        "title": "Bikini Beach (1964)",
+        "genres": "Comedy"
+    },
+    "3929": {
+        "movieId": "3929",
+        "title": "Bank Dick, The (1940)",
+        "genres": "Comedy"
+    },
+    "3943": {
+        "movieId": "3943",
+        "title": "Bamboozled (2000)",
+        "genres": "Comedy"
+    },
+    "3948": {
+        "movieId": "3948",
+        "title": "Meet the Parents (2000)",
+        "genres": "Comedy"
+    },
+    "3955": {
+        "movieId": "3955",
+        "title": "Ladies Man, The (2000)",
+        "genres": "Comedy"
+    },
+    "3968": {
+        "movieId": "3968",
+        "title": "Bedazzled (2000)",
+        "genres": "Comedy"
+    },
+    "3979": {
+        "movieId": "3979",
+        "title": "Little Nicky (2000)",
+        "genres": "Comedy"
+    },
+    "4002": {
+        "movieId": "4002",
+        "title": "Planes, Trains & Automobiles (1987)",
+        "genres": "Comedy"
+    },
+    "4003": {
+        "movieId": "4003",
+        "title": "She's Having a Baby (1988)",
+        "genres": "Comedy"
+    },
+    "4010": {
+        "movieId": "4010",
+        "title": "Brewster's Millions (1985)",
+        "genres": "Comedy"
+    },
+    "4032": {
+        "movieId": "4032",
+        "title": "Everlasting Piece, An (2000)",
+        "genres": "Comedy"
+    },
+    "4040": {
+        "movieId": "4040",
+        "title": "Don't Tell Mom the Babysitter's Dead (1991)",
+        "genres": "Comedy"
+    },
+    "4068": {
+        "movieId": "4068",
+        "title": "Sugar & Spice (2001)",
+        "genres": "Comedy"
+    },
+    "4080": {
+        "movieId": "4080",
+        "title": "Baby Boom (1987)",
+        "genres": "Comedy"
+    },
+    "4081": {
+        "movieId": "4081",
+        "title": "Back to the Beach (1987)",
+        "genres": "Comedy"
+    },
+    "4089": {
+        "movieId": "4089",
+        "title": "Born in East L.A. (1987)",
+        "genres": "Comedy"
+    },
+    "4104": {
+        "movieId": "4104",
+        "title": "Ernest Goes to Camp (1987)",
+        "genres": "Comedy"
+    },
+    "4115": {
+        "movieId": "4115",
+        "title": "Hiding Out (1987)",
+        "genres": "Comedy"
+    },
+    "4116": {
+        "movieId": "4116",
+        "title": "Hollywood Shuffle (1987)",
+        "genres": "Comedy"
+    },
+    "4123": {
+        "movieId": "4123",
+        "title": "Ishtar (1987)",
+        "genres": "Comedy"
+    },
+    "4127": {
+        "movieId": "4127",
+        "title": "Like Father, Like Son (1987)",
+        "genres": "Comedy"
+    },
+    "4156": {
+        "movieId": "4156",
+        "title": "Company Man (2000)",
+        "genres": "Comedy"
+    },
+    "4181": {
+        "movieId": "4181",
+        "title": "Tapeheads (1988)",
+        "genres": "Comedy"
+    },
+    "4197": {
+        "movieId": "4197",
+        "title": "Real Life (1979)",
+        "genres": "Comedy"
+    },
+    "4204": {
+        "movieId": "4204",
+        "title": "Losin' It (1983)",
+        "genres": "Comedy"
+    },
+    "4214": {
+        "movieId": "4214",
+        "title": "Revenge of the Nerds (1984)",
+        "genres": "Comedy"
+    },
+    "4215": {
+        "movieId": "4215",
+        "title": "Revenge of the Nerds II: Nerds in Paradise (1987)",
+        "genres": "Comedy"
+    },
+    "4219": {
+        "movieId": "4219",
+        "title": "Girls Just Want to Have Fun (1985)",
+        "genres": "Comedy"
+    },
+    "4220": {
+        "movieId": "4220",
+        "title": "Longest Yard, The (1974)",
+        "genres": "Comedy"
+    },
+    "4221": {
+        "movieId": "4221",
+        "title": "Necessary Roughness (1991)",
+        "genres": "Comedy"
+    },
+    "4225": {
+        "movieId": "4225",
+        "title": "Dish, The (2001)",
+        "genres": "Comedy"
+    },
+    "4233": {
+        "movieId": "4233",
+        "title": "Tomcats (2001)",
+        "genres": "Comedy"
+    },
+    "4248": {
+        "movieId": "4248",
+        "title": "Josie and the Pussycats (2001)",
+        "genres": "Comedy"
+    },
+    "4255": {
+        "movieId": "4255",
+        "title": "Freddy Got Fingered (2001)",
+        "genres": "Comedy"
+    },
+    "4267": {
+        "movieId": "4267",
+        "title": "One Night at McCool's (2001)",
+        "genres": "Comedy"
+    },
+    "4268": {
+        "movieId": "4268",
+        "title": "Town & Country (2001)",
+        "genres": "Comedy"
+    },
+    "4276": {
+        "movieId": "4276",
+        "title": "Lost in America (1985)",
+        "genres": "Comedy"
+    },
+    "4284": {
+        "movieId": "4284",
+        "title": "Frankie and Johnny (1966)",
+        "genres": "Comedy"
+    },
+    "4293": {
+        "movieId": "4293",
+        "title": "Summer Rental (1985)",
+        "genres": "Comedy"
+    },
+    "4340": {
+        "movieId": "4340",
+        "title": "Animal, The (2001)",
+        "genres": "Comedy"
+    },
+    "4359": {
+        "movieId": "4359",
+        "title": "Seven Year Itch, The (1955)",
+        "genres": "Comedy"
+    },
+    "4368": {
+        "movieId": "4368",
+        "title": "Dr. Dolittle 2 (2001)",
+        "genres": "Comedy"
+    },
+    "4373": {
+        "movieId": "4373",
+        "title": "Pootie Tang (2001)",
+        "genres": "Comedy"
+    },
+    "4381": {
+        "movieId": "4381",
+        "title": "Closet, The (Placard, Le) (2001)",
+        "genres": "Comedy"
+    },
+    "4388": {
+        "movieId": "4388",
+        "title": "Scary Movie 2 (2001)",
+        "genres": "Comedy"
+    },
+    "4402": {
+        "movieId": "4402",
+        "title": "Dr. Goldfoot and the Bikini Machine (1965)",
+        "genres": "Comedy"
+    },
+    "4452": {
+        "movieId": "4452",
+        "title": "Made (2001)",
+        "genres": "Comedy"
+    },
+    "4476": {
+        "movieId": "4476",
+        "title": "Big Business (1988)",
+        "genres": "Comedy"
+    },
+    "4483": {
+        "movieId": "4483",
+        "title": "Caddyshack II (1988)",
+        "genres": "Comedy"
+    },
+    "4490": {
+        "movieId": "4490",
+        "title": "Couch Trip, The (1988)",
+        "genres": "Comedy"
+    },
+    "4499": {
+        "movieId": "4499",
+        "title": "Dirty Rotten Scoundrels (1988)",
+        "genres": "Comedy"
+    },
+    "4504": {
+        "movieId": "4504",
+        "title": "Feds (1988)",
+        "genres": "Comedy"
+    },
+    "4509": {
+        "movieId": "4509",
+        "title": "Great Outdoors, The (1988)",
+        "genres": "Comedy"
+    },
+    "4511": {
+        "movieId": "4511",
+        "title": "High Spirits (1988)",
+        "genres": "Comedy"
+    },
+    "4516": {
+        "movieId": "4516",
+        "title": "Johnny Be Good (1988)",
+        "genres": "Comedy"
+    },
+    "4520": {
+        "movieId": "4520",
+        "title": "License to Drive (1988)",
+        "genres": "Comedy"
+    },
+    "4524": {
+        "movieId": "4524",
+        "title": "Moon Over Parador (1988)",
+        "genres": "Comedy"
+    },
+    "4558": {
+        "movieId": "4558",
+        "title": "Twins (1988)",
+        "genres": "Comedy"
+    },
+    "4563": {
+        "movieId": "4563",
+        "title": "Young Einstein (1988)",
+        "genres": "Comedy"
+    },
+    "4585": {
+        "movieId": "4585",
+        "title": "Dream Team, The (1989)",
+        "genres": "Comedy"
+    },
+    "4593": {
+        "movieId": "4593",
+        "title": "Family Business (1989)",
+        "genres": "Comedy"
+    },
+    "4617": {
+        "movieId": "4617",
+        "title": "Let It Ride (1989)",
+        "genres": "Comedy"
+    },
+    "4619": {
+        "movieId": "4619",
+        "title": "Little Monsters (1989)",
+        "genres": "Comedy"
+    },
+    "4622": {
+        "movieId": "4622",
+        "title": "Loverboy (1989)",
+        "genres": "Comedy"
+    },
+    "4623": {
+        "movieId": "4623",
+        "title": "Major League (1989)",
+        "genres": "Comedy"
+    },
+    "4649": {
+        "movieId": "4649",
+        "title": "Wet Hot American Summer (2001)",
+        "genres": "Comedy"
+    },
+    "4660": {
+        "movieId": "4660",
+        "title": "Scenes from the Class Struggle in Beverly Hills (1989)",
+        "genres": "Comedy"
+    },
+    "4663": {
+        "movieId": "4663",
+        "title": "She's Out of Control (1989)",
+        "genres": "Comedy"
+    },
+    "4666": {
+        "movieId": "4666",
+        "title": "Skin Deep (1989)",
+        "genres": "Comedy"
+    },
+    "4676": {
+        "movieId": "4676",
+        "title": "Troop Beverly Hills (1989)",
+        "genres": "Comedy"
+    },
+    "4678": {
+        "movieId": "4678",
+        "title": "UHF (1989)",
+        "genres": "Comedy"
+    },
+    "4679": {
+        "movieId": "4679",
+        "title": "Uncle Buck (1989)",
+        "genres": "Comedy"
+    },
+    "4687": {
+        "movieId": "4687",
+        "title": "Billy Liar (1963)",
+        "genres": "Comedy"
+    },
+    "4705": {
+        "movieId": "4705",
+        "title": "Cage aux Folles, La (1978)",
+        "genres": "Comedy"
+    },
+    "4714": {
+        "movieId": "4714",
+        "title": "Any Which Way You Can (1980)",
+        "genres": "Comedy"
+    },
+    "4718": {
+        "movieId": "4718",
+        "title": "American Pie 2 (2001)",
+        "genres": "Comedy"
+    },
+    "4722": {
+        "movieId": "4722",
+        "title": "All Over the Guy (2001)",
+        "genres": "Comedy"
+    },
+    "4728": {
+        "movieId": "4728",
+        "title": "Rat Race (2001)",
+        "genres": "Comedy"
+    },
+    "4732": {
+        "movieId": "4732",
+        "title": "Bubble Boy (2001)",
+        "genres": "Comedy"
+    },
+    "4733": {
+        "movieId": "4733",
+        "title": "Curse of the Jade Scorpion, The (2001)",
+        "genres": "Comedy"
+    },
+    "4773": {
+        "movieId": "4773",
+        "title": "Haiku Tunnel (2001)",
+        "genres": "Comedy"
+    },
+    "4816": {
+        "movieId": "4816",
+        "title": "Zoolander (2001)",
+        "genres": "Comedy"
+    },
+    "4860": {
+        "movieId": "4860",
+        "title": "Making the Grade (1984)",
+        "genres": "Comedy"
+    },
+    "4900": {
+        "movieId": "4900",
+        "title": "Out Cold (2001)",
+        "genres": "Comedy"
+    },
+    "4925": {
+        "movieId": "4925",
+        "title": "Cheap Detective, The (1978)",
+        "genres": "Comedy"
+    },
+    "4929": {
+        "movieId": "4929",
+        "title": "Toy, The (1982)",
+        "genres": "Comedy"
+    },
+    "4974": {
+        "movieId": "4974",
+        "title": "Not Another Teen Movie (2001)",
+        "genres": "Comedy"
+    },
+    "4981": {
+        "movieId": "4981",
+        "title": "Clockwise (1986)",
+        "genres": "Comedy"
+    },
+    "4989": {
+        "movieId": "4989",
+        "title": "How High (2001)",
+        "genres": "Comedy"
+    },
+    "5004": {
+        "movieId": "5004",
+        "title": "Party, The (1968)",
+        "genres": "Comedy"
+    },
+    "5025": {
+        "movieId": "5025",
+        "title": "Orange County (2002)",
+        "genres": "Comedy"
+    },
+    "5053": {
+        "movieId": "5053",
+        "title": "Blankman (1994)",
+        "genres": "Comedy"
+    },
+    "5075": {
+        "movieId": "5075",
+        "title": "Waydowntown (2000)",
+        "genres": "Comedy"
+    },
+    "5080": {
+        "movieId": "5080",
+        "title": "Slackers (2002)",
+        "genres": "Comedy"
+    },
+    "5096": {
+        "movieId": "5096",
+        "title": "Baby's Day Out (1994)",
+        "genres": "Comedy"
+    },
+    "5116": {
+        "movieId": "5116",
+        "title": "Designing Woman (1957)",
+        "genres": "Comedy"
+    },
+    "5139": {
+        "movieId": "5139",
+        "title": "Bad News Bears, The (1976)",
+        "genres": "Comedy"
+    },
+    "5187": {
+        "movieId": "5187",
+        "title": "Hopscotch (1980)",
+        "genres": "Comedy"
+    },
+    "5213": {
+        "movieId": "5213",
+        "title": "Oh, God! Book II (1980)",
+        "genres": "Comedy"
+    },
+    "5231": {
+        "movieId": "5231",
+        "title": "Road to Morocco (1942)",
+        "genres": "Comedy"
+    },
+    "5250": {
+        "movieId": "5250",
+        "title": "Stir Crazy (1980)",
+        "genres": "Comedy"
+    },
+    "5255": {
+        "movieId": "5255",
+        "title": "Sorority Boys (2002)",
+        "genres": "Comedy"
+    },
+    "5283": {
+        "movieId": "5283",
+        "title": "National Lampoon's Van Wilder (2002)",
+        "genres": "Comedy"
+    },
+    "5292": {
+        "movieId": "5292",
+        "title": "Slap Shot (1977)",
+        "genres": "Comedy"
+    },
+    "5307": {
+        "movieId": "5307",
+        "title": "Taking Care of Business (1990)",
+        "genres": "Comedy"
+    },
+    "5308": {
+        "movieId": "5308",
+        "title": "Three Men and a Baby (1987)",
+        "genres": "Comedy"
+    },
+    "5321": {
+        "movieId": "5321",
+        "title": "Triumph of Love, The (2001)",
+        "genres": "Comedy"
+    },
+    "5337": {
+        "movieId": "5337",
+        "title": "Delirious (1991)",
+        "genres": "Comedy"
+    },
+    "5363": {
+        "movieId": "5363",
+        "title": "New Guy, The (2002)",
+        "genres": "Comedy"
+    },
+    "5382": {
+        "movieId": "5382",
+        "title": "Every Which Way But Loose (1978)",
+        "genres": "Comedy"
+    },
+    "5401": {
+        "movieId": "5401",
+        "title": "Undercover Brother (2002)",
+        "genres": "Comedy"
+    },
+    "5422": {
+        "movieId": "5422",
+        "title": "Emperor's New Clothes, The (2001)",
+        "genres": "Comedy"
+    },
+    "5427": {
+        "movieId": "5427",
+        "title": "Caveman (1981)",
+        "genres": "Comedy"
+    },
+    "5428": {
+        "movieId": "5428",
+        "title": "Cheech & Chong's The Corsican Brothers (1984)",
+        "genres": "Comedy"
+    },
+    "5443": {
+        "movieId": "5443",
+        "title": "Juwanna Mann (2002)",
+        "genres": "Comedy"
+    },
+    "5481": {
+        "movieId": "5481",
+        "title": "Austin Powers in Goldmember (2002)",
+        "genres": "Comedy"
+    },
+    "5486": {
+        "movieId": "5486",
+        "title": "Who Is Cletis Tout? (2001)",
+        "genres": "Comedy"
+    },
+    "5500": {
+        "movieId": "5500",
+        "title": "Top Secret! (1984)",
+        "genres": "Comedy"
+    },
+    "5512": {
+        "movieId": "5512",
+        "title": "Secret Ballot (Raye makhfi) (2001)",
+        "genres": "Comedy"
+    },
+    "5548": {
+        "movieId": "5548",
+        "title": "Down and Out in Beverly Hills (1986)",
+        "genres": "Comedy"
+    },
+    "5568": {
+        "movieId": "5568",
+        "title": "Johnny Dangerously (1984)",
+        "genres": "Comedy"
+    },
+    "5572": {
+        "movieId": "5572",
+        "title": "Barbershop (2002)",
+        "genres": "Comedy"
+    },
+    "5581": {
+        "movieId": "5581",
+        "title": "Betsy's Wedding (1990)",
+        "genres": "Comedy"
+    },
+    "5584": {
+        "movieId": "5584",
+        "title": "Ernest Goes to Jail (1990)",
+        "genres": "Comedy"
+    },
+    "5585": {
+        "movieId": "5585",
+        "title": "Ernest Scared Stupid (1991)",
+        "genres": "Comedy"
+    },
+    "5650": {
+        "movieId": "5650",
+        "title": "Strange Brew (1983)",
+        "genres": "Comedy"
+    },
+    "5710": {
+        "movieId": "5710",
+        "title": "Banana Joe (1981)",
+        "genres": "Comedy"
+    },
+    "5773": {
+        "movieId": "5773",
+        "title": "Neighbors (1981)",
+        "genres": "Comedy"
+    },
+    "5780": {
+        "movieId": "5780",
+        "title": "Polyester (1981)",
+        "genres": "Comedy"
+    },
+    "5802": {
+        "movieId": "5802",
+        "title": "World of Henry Orient, The (1964)",
+        "genres": "Comedy"
+    },
+    "5849": {
+        "movieId": "5849",
+        "title": "I'm Starting From Three (Ricomincio da Tre) (1981)",
+        "genres": "Comedy"
+    },
+    "5863": {
+        "movieId": "5863",
+        "title": "Take This Job and Shove It (1981)",
+        "genres": "Comedy"
+    },
+    "5874": {
+        "movieId": "5874",
+        "title": "Friday After Next (2002)",
+        "genres": "Comedy"
+    },
+    "5896": {
+        "movieId": "5896",
+        "title": "New Waterford Girl (1999)",
+        "genres": "Comedy"
+    },
+    "5942": {
+        "movieId": "5942",
+        "title": "Hot Chick, The (2002)",
+        "genres": "Comedy"
+    },
+    "6025": {
+        "movieId": "6025",
+        "title": "CB4 - The Movie (1993)",
+        "genres": "Comedy"
+    },
+    "6033": {
+        "movieId": "6033",
+        "title": "Mystery Date (1991)",
+        "genres": "Comedy"
+    },
+    "6090": {
+        "movieId": "6090",
+        "title": "Kiss Me Goodbye (1982)",
+        "genres": "Comedy"
+    },
+    "6104": {
+        "movieId": "6104",
+        "title": "Monty Python Live at the Hollywood Bowl (1982)",
+        "genres": "Comedy"
+    },
+    "6119": {
+        "movieId": "6119",
+        "title": "Santa Claus Is a Stinker (Le P\u00e8re No\u00ebl est une ordure) (1982)",
+        "genres": "Comedy"
+    },
+    "6124": {
+        "movieId": "6124",
+        "title": "Savannah Smiles (1982)",
+        "genres": "Comedy"
+    },
+    "6141": {
+        "movieId": "6141",
+        "title": "They Call Me Bruce? (a.k.a. A Fistful of Chopsticks) (1982)",
+        "genres": "Comedy"
+    },
+    "6166": {
+        "movieId": "6166",
+        "title": "Dennis the Menace (1993)",
+        "genres": "Comedy"
+    },
+    "6182": {
+        "movieId": "6182",
+        "title": "Thrill of It All, The (1963)",
+        "genres": "Comedy"
+    },
+    "6188": {
+        "movieId": "6188",
+        "title": "Old School (2003)",
+        "genres": "Comedy"
+    },
+    "6203": {
+        "movieId": "6203",
+        "title": "Life Stinks (1991)",
+        "genres": "Comedy"
+    },
+    "6204": {
+        "movieId": "6204",
+        "title": "Meteor Man, The (1993)",
+        "genres": "Comedy"
+    },
+    "6212": {
+        "movieId": "6212",
+        "title": "Bringing Down the House (2003)",
+        "genres": "Comedy"
+    },
+    "6249": {
+        "movieId": "6249",
+        "title": "Boat Trip (2003)",
+        "genres": "Comedy"
+    },
+    "6265": {
+        "movieId": "6265",
+        "title": "Head of State (2003)",
+        "genres": "Comedy"
+    },
+    "6287": {
+        "movieId": "6287",
+        "title": "Anger Management (2003)",
+        "genres": "Comedy"
+    },
+    "6295": {
+        "movieId": "6295",
+        "title": "Chasing Papi (a.k.a. Papi Chulo) (2003)",
+        "genres": "Comedy"
+    },
+    "6313": {
+        "movieId": "6313",
+        "title": "Sibling Rivalry (1990)",
+        "genres": "Comedy"
+    },
+    "6315": {
+        "movieId": "6315",
+        "title": "Wildcats (1986)",
+        "genres": "Comedy"
+    },
+    "6320": {
+        "movieId": "6320",
+        "title": "Scenes from a Mall (1991)",
+        "genres": "Comedy"
+    },
+    "6374": {
+        "movieId": "6374",
+        "title": "In-Laws, The (2003)",
+        "genres": "Comedy"
+    },
+    "6402": {
+        "movieId": "6402",
+        "title": "Siam Sunset (1999)",
+        "genres": "Comedy"
+    },
+    "6410": {
+        "movieId": "6410",
+        "title": "Car Wash (1976)",
+        "genres": "Comedy"
+    },
+    "6425": {
+        "movieId": "6425",
+        "title": "6th Man, The (Sixth Man, The) (1997)",
+        "genres": "Comedy"
+    },
+    "6482": {
+        "movieId": "6482",
+        "title": "Dumb and Dumberer: When Harry Met Lloyd (2003)",
+        "genres": "Comedy"
+    },
+    "6528": {
+        "movieId": "6528",
+        "title": "Start the Revolution Without Me (1970)",
+        "genres": "Comedy"
+    },
+    "6533": {
+        "movieId": "6533",
+        "title": "What's Up, Doc? (1972)",
+        "genres": "Comedy"
+    },
+    "6535": {
+        "movieId": "6535",
+        "title": "Legally Blonde 2: Red, White & Blonde (2003)",
+        "genres": "Comedy"
+    },
+    "6578": {
+        "movieId": "6578",
+        "title": "Kiss Me, Stupid (1964)",
+        "genres": "Comedy"
+    },
+    "6579": {
+        "movieId": "6579",
+        "title": "One, Two, Three (1961)",
+        "genres": "Comedy"
+    },
+    "6586": {
+        "movieId": "6586",
+        "title": "American Wedding (American Pie 3) (2003)",
+        "genres": "Comedy"
+    },
+    "6604": {
+        "movieId": "6604",
+        "title": "Hawks and Sparrows (Uccellacci e Uccellini) (1966)",
+        "genres": "Comedy"
+    },
+    "6619": {
+        "movieId": "6619",
+        "title": "Uptown Girls (2003)",
+        "genres": "Comedy"
+    },
+    "6628": {
+        "movieId": "6628",
+        "title": "Hot Dog... The Movie (1984)",
+        "genres": "Comedy"
+    },
+    "6670": {
+        "movieId": "6670",
+        "title": "Comic Book Villains (2002)",
+        "genres": "Comedy"
+    },
+    "6702": {
+        "movieId": "6702",
+        "title": "Dickie Roberts: Former Child Star (2003)",
+        "genres": "Comedy"
+    },
+    "6718": {
+        "movieId": "6718",
+        "title": "Gotcha! (1985)",
+        "genres": "Comedy"
+    },
+    "6769": {
+        "movieId": "6769",
+        "title": "Mambo Italiano (2003)",
+        "genres": "Comedy"
+    },
+    "6807": {
+        "movieId": "6807",
+        "title": "Monty Python's The Meaning of Life (1983)",
+        "genres": "Comedy"
+    },
+    "6811": {
+        "movieId": "6811",
+        "title": "PCU (1994)",
+        "genres": "Comedy"
+    },
+    "6816": {
+        "movieId": "6816",
+        "title": "Three O'Clock High (1987)",
+        "genres": "Comedy"
+    },
+    "6821": {
+        "movieId": "6821",
+        "title": "More American Graffiti (1979)",
+        "genres": "Comedy"
+    },
+    "6827": {
+        "movieId": "6827",
+        "title": "It's Pat (1994)",
+        "genres": "Comedy"
+    },
+    "6853": {
+        "movieId": "6853",
+        "title": "Campus Man (1987)",
+        "genres": "Comedy"
+    },
+    "6944": {
+        "movieId": "6944",
+        "title": "Father of the Bride (1991)",
+        "genres": "Comedy"
+    },
+    "7005": {
+        "movieId": "7005",
+        "title": "King Ralph (1991)",
+        "genres": "Comedy"
+    },
+    "7026": {
+        "movieId": "7026",
+        "title": "Summer School (1987)",
+        "genres": "Comedy"
+    },
+    "7051": {
+        "movieId": "7051",
+        "title": "What's New, Pussycat (1965)",
+        "genres": "Comedy"
+    },
+    "7058": {
+        "movieId": "7058",
+        "title": "Life with Father (1947)",
+        "genres": "Comedy"
+    },
+    "7074": {
+        "movieId": "7074",
+        "title": "Navigator, The (1924)",
+        "genres": "Comedy"
+    },
+    "7091": {
+        "movieId": "7091",
+        "title": "Horse Feathers (1932)",
+        "genres": "Comedy"
+    },
+    "7093": {
+        "movieId": "7093",
+        "title": "Front Page, The (1974)",
+        "genres": "Comedy"
+    },
+    "7103": {
+        "movieId": "7103",
+        "title": "Madhouse (1990)",
+        "genres": "Comedy"
+    },
+    "7150": {
+        "movieId": "7150",
+        "title": "Stuck on You (2003)",
+        "genres": "Comedy"
+    },
+    "7155": {
+        "movieId": "7155",
+        "title": "Calendar Girls (2003)",
+        "genres": "Comedy"
+    },
+    "7191": {
+        "movieId": "7191",
+        "title": "Blame It on the Bellboy (1992)",
+        "genres": "Comedy"
+    },
+    "7206": {
+        "movieId": "7206",
+        "title": "Mon Oncle (My Uncle) (1958)",
+        "genres": "Comedy"
+    },
+    "7209": {
+        "movieId": "7209",
+        "title": "M. Hulot\u2019s Holiday (Mr. Hulot's Holiday) (Vacances de Monsieur Hulot, Les) (1953)",
+        "genres": "Comedy"
+    },
+    "7261": {
+        "movieId": "7261",
+        "title": "Barbershop 2: Back in Business (2004)",
+        "genres": "Comedy"
+    },
+    "7294": {
+        "movieId": "7294",
+        "title": "Welcome to Mooseport (2004)",
+        "genres": "Comedy"
+    },
+    "7316": {
+        "movieId": "7316",
+        "title": "Confessions of a Teenage Drama Queen (2004)",
+        "genres": "Comedy"
+    },
+    "7340": {
+        "movieId": "7340",
+        "title": "Just One of the Guys (1985)",
+        "genres": "Comedy"
+    },
+    "7448": {
+        "movieId": "7448",
+        "title": "Envy (2004)",
+        "genres": "Comedy"
+    },
+    "7451": {
+        "movieId": "7451",
+        "title": "Mean Girls (2004)",
+        "genres": "Comedy"
+    },
+    "7647": {
+        "movieId": "7647",
+        "title": "Noises Off... (1992)",
+        "genres": "Comedy"
+    },
+    "7716": {
+        "movieId": "7716",
+        "title": "Lonely Guy, The (1984)",
+        "genres": "Comedy"
+    },
+    "7727": {
+        "movieId": "7727",
+        "title": "Protocol (1984)",
+        "genres": "Comedy"
+    },
+    "7781": {
+        "movieId": "7781",
+        "title": "Twister (1990)",
+        "genres": "Comedy"
+    },
+    "7839": {
+        "movieId": "7839",
+        "title": "Love Crazy (1941)",
+        "genres": "Comedy"
+    },
+    "7843": {
+        "movieId": "7843",
+        "title": "Lammbock (2001)",
+        "genres": "Comedy"
+    },
+    "7879": {
+        "movieId": "7879",
+        "title": "Notorious C.H.O. (2002)",
+        "genres": "Comedy"
+    },
+    "7884": {
+        "movieId": "7884",
+        "title": "Highway 61 (1991)",
+        "genres": "Comedy"
+    },
+    "7916": {
+        "movieId": "7916",
+        "title": "Gidget (1959)",
+        "genres": "Comedy"
+    },
+    "7934": {
+        "movieId": "7934",
+        "title": "Zelig (1983)",
+        "genres": "Comedy"
+    },
+    "7983": {
+        "movieId": "7983",
+        "title": "Broadway Danny Rose (1984)",
+        "genres": "Comedy"
+    },
+    "8121": {
+        "movieId": "8121",
+        "title": "Seducing Doctor Lewis (Grande s\u00e9duction, La) (2003)",
+        "genres": "Comedy"
+    },
+    "8189": {
+        "movieId": "8189",
+        "title": "Zazie dans le m\u00e9tro (1960)",
+        "genres": "Comedy"
+    },
+    "8275": {
+        "movieId": "8275",
+        "title": "College (1927)",
+        "genres": "Comedy"
+    },
+    "8331": {
+        "movieId": "8331",
+        "title": "Man Who Came to Dinner, The (1942)",
+        "genres": "Comedy"
+    },
+    "8363": {
+        "movieId": "8363",
+        "title": "Soul Plane (2004)",
+        "genres": "Comedy"
+    },
+    "8376": {
+        "movieId": "8376",
+        "title": "Napoleon Dynamite (2004)",
+        "genres": "Comedy"
+    },
+    "8380": {
+        "movieId": "8380",
+        "title": "Father Hood (1993)",
+        "genres": "Comedy"
+    },
+    "8382": {
+        "movieId": "8382",
+        "title": "Hello Again (1987)",
+        "genres": "Comedy"
+    },
+    "8425": {
+        "movieId": "8425",
+        "title": "Meet the Applegates (1991)",
+        "genres": "Comedy"
+    },
+    "8511": {
+        "movieId": "8511",
+        "title": "Immigrant, The (1917)",
+        "genres": "Comedy"
+    },
+    "8512": {
+        "movieId": "8512",
+        "title": "Silent Movie (1976)",
+        "genres": "Comedy"
+    },
+    "8528": {
+        "movieId": "8528",
+        "title": "Dodgeball: A True Underdog Story (2004)",
+        "genres": "Comedy"
+    },
+    "8609": {
+        "movieId": "8609",
+        "title": "Our Hospitality (1923)",
+        "genres": "Comedy"
+    },
+    "8611": {
+        "movieId": "8611",
+        "title": "Farmer's Daughter, The (1947)",
+        "genres": "Comedy"
+    },
+    "8632": {
+        "movieId": "8632",
+        "title": "Secret Society (2002)",
+        "genres": "Comedy"
+    },
+    "8641": {
+        "movieId": "8641",
+        "title": "Anchorman: The Legend of Ron Burgundy (2004)",
+        "genres": "Comedy"
+    },
+    "8695": {
+        "movieId": "8695",
+        "title": "Bachelor and the Bobby-Soxer, The (1947)",
+        "genres": "Comedy"
+    },
+    "8711": {
+        "movieId": "8711",
+        "title": "Mr. Blandings Builds His Dream House (1948)",
+        "genres": "Comedy"
+    },
+    "8720": {
+        "movieId": "8720",
+        "title": "Super, The (1991)",
+        "genres": "Comedy"
+    },
+    "8748": {
+        "movieId": "8748",
+        "title": "Yesterday, Today and Tomorrow (Ieri, oggi, domani) (1963)",
+        "genres": "Comedy"
+    },
+    "8814": {
+        "movieId": "8814",
+        "title": "Without a Paddle (2004)",
+        "genres": "Comedy"
+    },
+    "8910": {
+        "movieId": "8910",
+        "title": "I Heart Huckabees (2004)",
+        "genres": "Comedy"
+    },
+    "8946": {
+        "movieId": "8946",
+        "title": "Surviving Christmas (2004)",
+        "genres": "Comedy"
+    },
+    "25752": {
+        "movieId": "25752",
+        "title": "Freshman, The (1925)",
+        "genres": "Comedy"
+    },
+    "25782": {
+        "movieId": "25782",
+        "title": "Boudu Saved From Drowning (Boudu sauv\u00e9 des eaux) (1932)",
+        "genres": "Comedy"
+    },
+    "25947": {
+        "movieId": "25947",
+        "title": "Unfaithfully Yours (1948)",
+        "genres": "Comedy"
+    },
+    "26171": {
+        "movieId": "26171",
+        "title": "Play Time (a.k.a. Playtime) (1967)",
+        "genres": "Comedy"
+    },
+    "26555": {
+        "movieId": "26555",
+        "title": "Spies Like Us (1985)",
+        "genres": "Comedy"
+    },
+    "26567": {
+        "movieId": "26567",
+        "title": "Club Paradise (1986)",
+        "genres": "Comedy"
+    },
+    "26645": {
+        "movieId": "26645",
+        "title": "Life Is a Long Quiet River (La vie est un long fleuve tranquille) (1988)",
+        "genres": "Comedy"
+    },
+    "26676": {
+        "movieId": "26676",
+        "title": "Almost an Angel (1990)",
+        "genres": "Comedy"
+    },
+    "26726": {
+        "movieId": "26726",
+        "title": "Dutch (1991)",
+        "genres": "Comedy"
+    },
+    "26732": {
+        "movieId": "26732",
+        "title": "Johnny Stecchino (1991)",
+        "genres": "Comedy"
+    },
+    "26778": {
+        "movieId": "26778",
+        "title": "Ladybugs (1992)",
+        "genres": "Comedy"
+    },
+    "26870": {
+        "movieId": "26870",
+        "title": "Major League II (1994)",
+        "genres": "Comedy"
+    },
+    "26940": {
+        "movieId": "26940",
+        "title": "Late Shift, The (1996)",
+        "genres": "Comedy"
+    },
+    "27370": {
+        "movieId": "27370",
+        "title": "Late Night Shopping (2001)",
+        "genres": "Comedy"
+    },
+    "27478": {
+        "movieId": "27478",
+        "title": "Ali G Indahouse (2002)",
+        "genres": "Comedy"
+    },
+    "27555": {
+        "movieId": "27555",
+        "title": "Fubar (2002)",
+        "genres": "Comedy"
+    },
+    "27685": {
+        "movieId": "27685",
+        "title": "Bring It On Again (2004)",
+        "genres": "Comedy"
+    },
+    "27762": {
+        "movieId": "27762",
+        "title": "Comic Book: The Movie (2004)",
+        "genres": "Comedy"
+    },
+    "30825": {
+        "movieId": "30825",
+        "title": "Meet the Fockers (2004)",
+        "genres": "Comedy"
+    },
+    "31000": {
+        "movieId": "31000",
+        "title": "Sweet Liberty (1986)",
+        "genres": "Comedy"
+    },
+    "31692": {
+        "movieId": "31692",
+        "title": "Uncle Nino (2003)",
+        "genres": "Comedy"
+    },
+    "31851": {
+        "movieId": "31851",
+        "title": "Sons of the Desert (1933)",
+        "genres": "Comedy"
+    },
+    "32116": {
+        "movieId": "32116",
+        "title": "Oh, God! You Devil (1984)",
+        "genres": "Comedy"
+    },
+    "32160": {
+        "movieId": "32160",
+        "title": "Twentieth Century (1934)",
+        "genres": "Comedy"
+    },
+    "32442": {
+        "movieId": "32442",
+        "title": "Greedy (1994)",
+        "genres": "Comedy"
+    },
+    "32589": {
+        "movieId": "32589",
+        "title": "Beauty Shop (2005)",
+        "genres": "Comedy"
+    },
+    "32659": {
+        "movieId": "32659",
+        "title": "Tanguy (2001)",
+        "genres": "Comedy"
+    },
+    "32666": {
+        "movieId": "32666",
+        "title": "National Lampoon's Lady Killers (National Lampoon's Gold Diggers) (2003)",
+        "genres": "Comedy"
+    },
+    "32875": {
+        "movieId": "32875",
+        "title": "Holiday (Jour de f\u00eate) (1949)",
+        "genres": "Comedy"
+    },
+    "33495": {
+        "movieId": "33495",
+        "title": "Kicking & Screaming (2005)",
+        "genres": "Comedy"
+    },
+    "33564": {
+        "movieId": "33564",
+        "title": "Divorce - Italian Style (Divorzio all'italiana) (1961)",
+        "genres": "Comedy"
+    },
+    "33779": {
+        "movieId": "33779",
+        "title": "Eddie Izzard: Dress to Kill (1999)",
+        "genres": "Comedy"
+    },
+    "33966": {
+        "movieId": "33966",
+        "title": "Cop and \u00bd (1993)",
+        "genres": "Comedy"
+    },
+    "34129": {
+        "movieId": "34129",
+        "title": "Rebound (2005)",
+        "genres": "Comedy"
+    },
+    "34312": {
+        "movieId": "34312",
+        "title": "Calcium Kid, The (2004)",
+        "genres": "Comedy"
+    },
+    "34359": {
+        "movieId": "34359",
+        "title": "Georgy Girl (1966)",
+        "genres": "Comedy"
+    },
+    "34530": {
+        "movieId": "34530",
+        "title": "Deuce Bigalow: European Gigolo (2005)",
+        "genres": "Comedy"
+    },
+    "34800": {
+        "movieId": "34800",
+        "title": "Private Resort (1985)",
+        "genres": "Comedy"
+    },
+    "35807": {
+        "movieId": "35807",
+        "title": "Teahouse of the August Moon, The (1956)",
+        "genres": "Comedy"
+    },
+    "37384": {
+        "movieId": "37384",
+        "title": "Waiting... (2005)",
+        "genres": "Comedy"
+    },
+    "39715": {
+        "movieId": "39715",
+        "title": "American Pie Presents: Band Camp (American Pie 4: Band Camp) (2005)",
+        "genres": "Comedy"
+    },
+    "42013": {
+        "movieId": "42013",
+        "title": "Ringer, The (2005)",
+        "genres": "Comedy"
+    },
+    "42725": {
+        "movieId": "42725",
+        "title": "Grandma's Boy (2006)",
+        "genres": "Comedy"
+    },
+    "42732": {
+        "movieId": "42732",
+        "title": "Last Holiday (2006)",
+        "genres": "Comedy"
+    },
+    "42740": {
+        "movieId": "42740",
+        "title": "Looking for Comedy in the Muslim World (2005)",
+        "genres": "Comedy"
+    },
+    "44840": {
+        "movieId": "44840",
+        "title": "Benchwarmers, The (2006)",
+        "genres": "Comedy"
+    },
+    "44851": {
+        "movieId": "44851",
+        "title": "Go for Zucker! (Alles auf Zucker!) (2004)",
+        "genres": "Comedy"
+    },
+    "45221": {
+        "movieId": "45221",
+        "title": "Stick It (2006)",
+        "genres": "Comedy"
+    },
+    "45666": {
+        "movieId": "45666",
+        "title": "Nacho Libre (2006)",
+        "genres": "Comedy"
+    },
+    "45726": {
+        "movieId": "45726",
+        "title": "You, Me and Dupree (2006)",
+        "genres": "Comedy"
+    },
+    "45728": {
+        "movieId": "45728",
+        "title": "Clerks II (2006)",
+        "genres": "Comedy"
+    },
+    "46574": {
+        "movieId": "46574",
+        "title": "OH in Ohio, The (2006)",
+        "genres": "Comedy"
+    },
+    "46772": {
+        "movieId": "46772",
+        "title": "Strangers with Candy (2005)",
+        "genres": "Comedy"
+    },
+    "46865": {
+        "movieId": "46865",
+        "title": "Little Man (2006)",
+        "genres": "Comedy"
+    },
+    "47518": {
+        "movieId": "47518",
+        "title": "Accepted (2006)",
+        "genres": "Comedy"
+    },
+    "47640": {
+        "movieId": "47640",
+        "title": "Beerfest (2006)",
+        "genres": "Comedy"
+    },
+    "47736": {
+        "movieId": "47736",
+        "title": "Chump at Oxford, A (1940)",
+        "genres": "Comedy"
+    },
+    "48045": {
+        "movieId": "48045",
+        "title": "Fear City: A Family-Style Comedy (La cit\u00e9 de la peur) (1994)",
+        "genres": "Comedy"
+    },
+    "48385": {
+        "movieId": "48385",
+        "title": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan (2006)",
+        "genres": "Comedy"
+    },
+    "48520": {
+        "movieId": "48520",
+        "title": "Employee of the Month (2006)",
+        "genres": "Comedy"
+    },
+    "49220": {
+        "movieId": "49220",
+        "title": "For Your Consideration (2006)",
+        "genres": "Comedy"
+    },
+    "49276": {
+        "movieId": "49276",
+        "title": "Let's Go to Prison (2006)",
+        "genres": "Comedy"
+    },
+    "49735": {
+        "movieId": "49735",
+        "title": "Another Gay Movie (2006)",
+        "genres": "Comedy"
+    },
+    "50354": {
+        "movieId": "50354",
+        "title": "The Return of Don Camillo (1953)",
+        "genres": "Comedy"
+    },
+    "50356": {
+        "movieId": "50356",
+        "title": "The Little World of Don Camillo (1952)",
+        "genres": "Comedy"
+    },
+    "50610": {
+        "movieId": "50610",
+        "title": "Beer League (2006)",
+        "genres": "Comedy"
+    },
+    "50942": {
+        "movieId": "50942",
+        "title": "Wake Up, Ron Burgundy (2004)",
+        "genres": "Comedy"
+    },
+    "51088": {
+        "movieId": "51088",
+        "title": "Reno 911!: Miami (2007)",
+        "genres": "Comedy"
+    },
+    "52279": {
+        "movieId": "52279",
+        "title": "Are We Done Yet? (2007)",
+        "genres": "Comedy"
+    },
+    "52694": {
+        "movieId": "52694",
+        "title": "Mr. Bean's Holiday (2007)",
+        "genres": "Comedy"
+    },
+    "52715": {
+        "movieId": "52715",
+        "title": "Kickin It Old Skool (2007)",
+        "genres": "Comedy"
+    },
+    "53578": {
+        "movieId": "53578",
+        "title": "Valet, The (La doublure) (2006)",
+        "genres": "Comedy"
+    },
+    "53808": {
+        "movieId": "53808",
+        "title": "Bring It On: All or Nothing (2006)",
+        "genres": "Comedy"
+    },
+    "53956": {
+        "movieId": "53956",
+        "title": "Death at a Funeral (2007)",
+        "genres": "Comedy"
+    },
+    "54256": {
+        "movieId": "54256",
+        "title": "Hot Rod (2007)",
+        "genres": "Comedy"
+    },
+    "54503": {
+        "movieId": "54503",
+        "title": "Superbad (2007)",
+        "genres": "Comedy"
+    },
+    "54617": {
+        "movieId": "54617",
+        "title": "Brice Man, The (Brice de Nice) (2005)",
+        "genres": "Comedy"
+    },
+    "54732": {
+        "movieId": "54732",
+        "title": "Balls of Fury (2007)",
+        "genres": "Comedy"
+    },
+    "54734": {
+        "movieId": "54734",
+        "title": "Sydney White (2007)",
+        "genres": "Comedy"
+    },
+    "54934": {
+        "movieId": "54934",
+        "title": "Brothers Solomon, The (2007)",
+        "genres": "Comedy"
+    },
+    "55020": {
+        "movieId": "55020",
+        "title": "Ten, The (2007)",
+        "genres": "Comedy"
+    },
+    "55241": {
+        "movieId": "55241",
+        "title": "Mr. Woodcock (2007)",
+        "genres": "Comedy"
+    },
+    "55250": {
+        "movieId": "55250",
+        "title": "Game Plan, The (2007)",
+        "genres": "Comedy"
+    },
+    "55292": {
+        "movieId": "55292",
+        "title": "Comebacks, The (2007)",
+        "genres": "Comedy"
+    },
+    "55729": {
+        "movieId": "55729",
+        "title": "King of California (2007)",
+        "genres": "Comedy"
+    },
+    "55830": {
+        "movieId": "55830",
+        "title": "Be Kind Rewind (2008)",
+        "genres": "Comedy"
+    },
+    "56869": {
+        "movieId": "56869",
+        "title": "Drained (O cheiro do Ralo) (2006)",
+        "genres": "Comedy"
+    },
+    "57532": {
+        "movieId": "57532",
+        "title": "Meet the Spartans (2008)",
+        "genres": "Comedy"
+    },
+    "57536": {
+        "movieId": "57536",
+        "title": "Strange Wilderness (2008)",
+        "genres": "Comedy"
+    },
+    "58156": {
+        "movieId": "58156",
+        "title": "Semi-Pro (2008)",
+        "genres": "Comedy"
+    },
+    "58291": {
+        "movieId": "58291",
+        "title": "College Road Trip (2008)",
+        "genres": "Comedy"
+    },
+    "58315": {
+        "movieId": "58315",
+        "title": "Love Guru, The (2008)",
+        "genres": "Comedy"
+    },
+    "58655": {
+        "movieId": "58655",
+        "title": "Drillbit Taylor (2008)",
+        "genres": "Comedy"
+    },
+    "58870": {
+        "movieId": "58870",
+        "title": "Zebraman (2004)",
+        "genres": "Comedy"
+    },
+    "59026": {
+        "movieId": "59026",
+        "title": "99 francs (2007)",
+        "genres": "Comedy"
+    },
+    "59258": {
+        "movieId": "59258",
+        "title": "Baby Mama (2008)",
+        "genres": "Comedy"
+    },
+    "59429": {
+        "movieId": "59429",
+        "title": "American Pie Presents Beta House (American Pie 6: Beta House) (2007)",
+        "genres": "Comedy"
+    },
+    "59667": {
+        "movieId": "59667",
+        "title": "Nina's Heavenly Delights (2006)",
+        "genres": "Comedy"
+    },
+    "59900": {
+        "movieId": "59900",
+        "title": "You Don't Mess with the Zohan (2008)",
+        "genres": "Comedy"
+    },
+    "60128": {
+        "movieId": "60128",
+        "title": "Young People Fucking (a.k.a. YPF) (2007)",
+        "genres": "Comedy"
+    },
+    "60408": {
+        "movieId": "60408",
+        "title": "Welcome to the Sticks (Bienvenue chez les Ch'tis) (2008)",
+        "genres": "Comedy"
+    },
+    "60756": {
+        "movieId": "60756",
+        "title": "Step Brothers (2008)",
+        "genres": "Comedy"
+    },
+    "61246": {
+        "movieId": "61246",
+        "title": "Hamlet 2 (2008)",
+        "genres": "Comedy"
+    },
+    "61250": {
+        "movieId": "61250",
+        "title": "House Bunny, The (2008)",
+        "genres": "Comedy"
+    },
+    "61255": {
+        "movieId": "61255",
+        "title": "Rocker, The (2008)",
+        "genres": "Comedy"
+    },
+    "61348": {
+        "movieId": "61348",
+        "title": "Disaster Movie (2008)",
+        "genres": "Comedy"
+    },
+    "61394": {
+        "movieId": "61394",
+        "title": "Onion Movie, The (2008)",
+        "genres": "Comedy"
+    },
+    "62113": {
+        "movieId": "62113",
+        "title": "How to Lose Friends & Alienate People (2008)",
+        "genres": "Comedy"
+    },
+    "63131": {
+        "movieId": "63131",
+        "title": "Role Models (2008)",
+        "genres": "Comedy"
+    },
+    "63479": {
+        "movieId": "63479",
+        "title": "Sex Drive (2008)",
+        "genres": "Comedy"
+    },
+    "64032": {
+        "movieId": "64032",
+        "title": "Four Christmases (2008)",
+        "genres": "Comedy"
+    },
+    "64969": {
+        "movieId": "64969",
+        "title": "Yes Man (2008)",
+        "genres": "Comedy"
+    },
+    "65133": {
+        "movieId": "65133",
+        "title": "Blackadder Back & Forth (1999)",
+        "genres": "Comedy"
+    },
+    "65135": {
+        "movieId": "65135",
+        "title": "Blackadder's Christmas Carol (1988)",
+        "genres": "Comedy"
+    },
+    "65738": {
+        "movieId": "65738",
+        "title": "Revenge of the Nerds III: The Next Generation (1992)",
+        "genres": "Comedy"
+    },
+    "67087": {
+        "movieId": "67087",
+        "title": "I Love You, Man (2009)",
+        "genres": "Comedy"
+    },
+    "67534": {
+        "movieId": "67534",
+        "title": "Big Stan (2007)",
+        "genres": "Comedy"
+    },
+    "67888": {
+        "movieId": "67888",
+        "title": "Man on the Flying Trapeze (1935)",
+        "genres": "Comedy"
+    },
+    "67997": {
+        "movieId": "67997",
+        "title": "In the Loop (2009)",
+        "genres": "Comedy"
+    },
+    "68444": {
+        "movieId": "68444",
+        "title": "Great Buck Howard, The (2008)",
+        "genres": "Comedy"
+    },
+    "68600": {
+        "movieId": "68600",
+        "title": "Balls Out: Gary the Tennis Coach (2009)",
+        "genres": "Comedy"
+    },
+    "69069": {
+        "movieId": "69069",
+        "title": "Fired Up (2009)",
+        "genres": "Comedy"
+    },
+    "69784": {
+        "movieId": "69784",
+        "title": "Br\u00fcno (Bruno) (2009)",
+        "genres": "Comedy"
+    },
+    "69988": {
+        "movieId": "69988",
+        "title": "Humpday (2009)",
+        "genres": "Comedy"
+    },
+    "70545": {
+        "movieId": "70545",
+        "title": "Deal, The (2008)",
+        "genres": "Comedy"
+    },
+    "70565": {
+        "movieId": "70565",
+        "title": "Goods: Live Hard, Sell Hard, The (2009)",
+        "genres": "Comedy"
+    },
+    "70641": {
+        "movieId": "70641",
+        "title": "Miss March (2009)",
+        "genres": "Comedy"
+    },
+    "70932": {
+        "movieId": "70932",
+        "title": "My Life in Ruins (2009)",
+        "genres": "Comedy"
+    },
+    "70984": {
+        "movieId": "70984",
+        "title": "Taking Woodstock (2009)",
+        "genres": "Comedy"
+    },
+    "71248": {
+        "movieId": "71248",
+        "title": "Extract (2009)",
+        "genres": "Comedy"
+    },
+    "71520": {
+        "movieId": "71520",
+        "title": "Invention of Lying, The (2009)",
+        "genres": "Comedy"
+    },
+    "72224": {
+        "movieId": "72224",
+        "title": "Gentlemen Broncos (2009)",
+        "genres": "Comedy"
+    },
+    "72696": {
+        "movieId": "72696",
+        "title": "Old Dogs (2009)",
+        "genres": "Comedy"
+    },
+    "73106": {
+        "movieId": "73106",
+        "title": "American Pie Presents: The Book of Love (American Pie 7: The Book of Love) (2009)",
+        "genres": "Comedy"
+    },
+    "73501": {
+        "movieId": "73501",
+        "title": "Pekka ja P\u00e4tk\u00e4 Suezilla (1958)",
+        "genres": "Comedy"
+    },
+    "73858": {
+        "movieId": "73858",
+        "title": "Dennis the Menace Christmas, A (2007)",
+        "genres": "Comedy"
+    },
+    "74647": {
+        "movieId": "74647",
+        "title": "Motherhood (2009)",
+        "genres": "Comedy"
+    },
+    "74683": {
+        "movieId": "74683",
+        "title": "Mike Bassett: England Manager (2001)",
+        "genres": "Comedy"
+    },
+    "74946": {
+        "movieId": "74946",
+        "title": "She's Out of My League (2010)",
+        "genres": "Comedy"
+    },
+    "75803": {
+        "movieId": "75803",
+        "title": "Our Family Wedding (2010)",
+        "genres": "Comedy"
+    },
+    "75816": {
+        "movieId": "75816",
+        "title": "Women in Trouble (2009)",
+        "genres": "Comedy"
+    },
+    "76060": {
+        "movieId": "76060",
+        "title": "Slammin' Salmon, The (2009)",
+        "genres": "Comedy"
+    },
+    "77191": {
+        "movieId": "77191",
+        "title": "Death at a Funeral (2010)",
+        "genres": "Comedy"
+    },
+    "77688": {
+        "movieId": "77688",
+        "title": "Three Men and a Cradle (3 hommes et un couffin) (1985)",
+        "genres": "Comedy"
+    },
+    "78160": {
+        "movieId": "78160",
+        "title": "Ricky Gervais Live: Animals (2003)",
+        "genres": "Comedy"
+    },
+    "78209": {
+        "movieId": "78209",
+        "title": "Get Him to the Greek (2010)",
+        "genres": "Comedy"
+    },
+    "78544": {
+        "movieId": "78544",
+        "title": "Ricky Gervais Live 3: Fame (2007)",
+        "genres": "Comedy"
+    },
+    "79134": {
+        "movieId": "79134",
+        "title": "Grown Ups (2010)",
+        "genres": "Comedy"
+    },
+    "79428": {
+        "movieId": "79428",
+        "title": "Dinner for Schmucks (2010)",
+        "genres": "Comedy"
+    },
+    "80858": {
+        "movieId": "80858",
+        "title": "You Again (2010)",
+        "genres": "Comedy"
+    },
+    "81537": {
+        "movieId": "81537",
+        "title": "Due Date (2010)",
+        "genres": "Comedy"
+    },
+    "82848": {
+        "movieId": "82848",
+        "title": "One Week (1920)",
+        "genres": "Comedy"
+    },
+    "82852": {
+        "movieId": "82852",
+        "title": "Little Fockers (2010)",
+        "genres": "Comedy"
+    },
+    "84512": {
+        "movieId": "84512",
+        "title": "Girls About Town (1931)",
+        "genres": "Comedy"
+    },
+    "84553": {
+        "movieId": "84553",
+        "title": "Pekka ja P\u00e4tk\u00e4 salapoliiseina (1957)",
+        "genres": "Comedy"
+    },
+    "84615": {
+        "movieId": "84615",
+        "title": "Cedar Rapids (2011)",
+        "genres": "Comedy"
+    },
+    "85022": {
+        "movieId": "85022",
+        "title": "Hall Pass (2011)",
+        "genres": "Comedy"
+    },
+    "85399": {
+        "movieId": "85399",
+        "title": "Big Mommas: Like Father, Like Son (2011)",
+        "genres": "Comedy"
+    },
+    "86014": {
+        "movieId": "86014",
+        "title": "Diary of a Wimpy Kid: Rodrick Rules (2011)",
+        "genres": "Comedy"
+    },
+    "86066": {
+        "movieId": "86066",
+        "title": "Playing the Victim (Izobrazhaya zhertvu) (2006)",
+        "genres": "Comedy"
+    },
+    "86293": {
+        "movieId": "86293",
+        "title": "Arthur (2011)",
+        "genres": "Comedy"
+    },
+    "86345": {
+        "movieId": "86345",
+        "title": "Louis C.K.: Hilarious (2010)",
+        "genres": "Comedy"
+    },
+    "86347": {
+        "movieId": "86347",
+        "title": "Louis C.K.: Chewed Up (2008)",
+        "genres": "Comedy"
+    },
+    "86377": {
+        "movieId": "86377",
+        "title": "Louis C.K.: Shameless (2007)",
+        "genres": "Comedy"
+    },
+    "86833": {
+        "movieId": "86833",
+        "title": "Bridesmaids (2011)",
+        "genres": "Comedy"
+    },
+    "86911": {
+        "movieId": "86911",
+        "title": "Hangover Part II, The (2011)",
+        "genres": "Comedy"
+    },
+    "86922": {
+        "movieId": "86922",
+        "title": "Nothing to Declare (Rien \u00e0 d\u00e9clarer) (2010)",
+        "genres": "Comedy"
+    },
+    "87444": {
+        "movieId": "87444",
+        "title": "Elektra Luxx (2010)",
+        "genres": "Comedy"
+    },
+    "87483": {
+        "movieId": "87483",
+        "title": "Mr. Popper's Penguins (2011)",
+        "genres": "Comedy"
+    },
+    "87485": {
+        "movieId": "87485",
+        "title": "Bad Teacher (2011)",
+        "genres": "Comedy"
+    },
+    "87867": {
+        "movieId": "87867",
+        "title": "Zookeeper (2011)",
+        "genres": "Comedy"
+    },
+    "88672": {
+        "movieId": "88672",
+        "title": "Our Idiot Brother (2011)",
+        "genres": "Comedy"
+    },
+    "88746": {
+        "movieId": "88746",
+        "title": "Terri (2011)",
+        "genres": "Comedy"
+    },
+    "88785": {
+        "movieId": "88785",
+        "title": "Change-Up, The (2011)",
+        "genres": "Comedy"
+    },
+    "88911": {
+        "movieId": "88911",
+        "title": "My Afternoons with Margueritte (La t\u00eate en friche) (2010)",
+        "genres": "Comedy"
+    },
+    "88954": {
+        "movieId": "88954",
+        "title": "Very Harold & Kumar 3D Christmas, A (2011)",
+        "genres": "Comedy"
+    },
+    "89388": {
+        "movieId": "89388",
+        "title": "I Don't Know How She Does It (2011)",
+        "genres": "Comedy"
+    },
+    "89939": {
+        "movieId": "89939",
+        "title": "Gigi (1949)",
+        "genres": "Comedy"
+    },
+    "90890": {
+        "movieId": "90890",
+        "title": "Jack and Jill (2011)",
+        "genres": "Comedy"
+    },
+    "91323": {
+        "movieId": "91323",
+        "title": "Sitter, The (2011)",
+        "genres": "Comedy"
+    },
+    "91690": {
+        "movieId": "91690",
+        "title": "Friends with Kids (2011)",
+        "genres": "Comedy"
+    },
+    "92046": {
+        "movieId": "92046",
+        "title": "Contact High (2009)",
+        "genres": "Comedy"
+    },
+    "92427": {
+        "movieId": "92427",
+        "title": "Woman in Love (Rubbeldiekatz) (2011)",
+        "genres": "Comedy"
+    },
+    "92535": {
+        "movieId": "92535",
+        "title": "Louis C.K.: Live at the Beacon Theater (2011)",
+        "genres": "Comedy"
+    },
+    "93134": {
+        "movieId": "93134",
+        "title": "Women on the 6th Floor, The (Les Femmes du 6\u00e8me \u00c9tage) (2010)",
+        "genres": "Comedy"
+    },
+    "93270": {
+        "movieId": "93270",
+        "title": "Project X (2012)",
+        "genres": "Comedy"
+    },
+    "93287": {
+        "movieId": "93287",
+        "title": "Big Year, The (2011)",
+        "genres": "Comedy"
+    },
+    "93831": {
+        "movieId": "93831",
+        "title": "American Reunion (American Pie 4) (2012)",
+        "genres": "Comedy"
+    },
+    "93980": {
+        "movieId": "93980",
+        "title": "Three Stooges, The (2012)",
+        "genres": "Comedy"
+    },
+    "94323": {
+        "movieId": "94323",
+        "title": "Think Like a Man (2012)",
+        "genres": "Comedy"
+    },
+    "94677": {
+        "movieId": "94677",
+        "title": "Dictator, The (2012)",
+        "genres": "Comedy"
+    },
+    "94953": {
+        "movieId": "94953",
+        "title": "Wanderlust (2012)",
+        "genres": "Comedy"
+    },
+    "95201": {
+        "movieId": "95201",
+        "title": "To Rome with Love (2012)",
+        "genres": "Comedy"
+    },
+    "95744": {
+        "movieId": "95744",
+        "title": "2 Days in New York (2012)",
+        "genres": "Comedy"
+    },
+    "95949": {
+        "movieId": "95949",
+        "title": "Immature, The (Immaturi) (2011)",
+        "genres": "Comedy"
+    },
+    "96110": {
+        "movieId": "96110",
+        "title": "Campaign, The (2012)",
+        "genres": "Comedy"
+    },
+    "96616": {
+        "movieId": "96616",
+        "title": "That's My Boy (2012)",
+        "genres": "Comedy"
+    },
+    "98160": {
+        "movieId": "98160",
+        "title": "Nature Calls (2012)",
+        "genres": "Comedy"
+    },
+    "98279": {
+        "movieId": "98279",
+        "title": "Fantastic Fear of Everything, A (2012)",
+        "genres": "Comedy"
+    },
+    "99106": {
+        "movieId": "99106",
+        "title": "Guilt Trip, The (2012)",
+        "genres": "Comedy"
+    },
+    "99415": {
+        "movieId": "99415",
+        "title": "Parental Guidance (2012)",
+        "genres": "Comedy"
+    },
+    "99638": {
+        "movieId": "99638",
+        "title": "Fish Story (Fisshu sut\u00f4r\u00ee) (2009)",
+        "genres": "Comedy"
+    },
+    "100068": {
+        "movieId": "100068",
+        "title": "Comme un chef (2012)",
+        "genres": "Comedy"
+    },
+    "100083": {
+        "movieId": "100083",
+        "title": "Movie 43 (2013)",
+        "genres": "Comedy"
+    },
+    "100159": {
+        "movieId": "100159",
+        "title": "Sightseers (2012)",
+        "genres": "Comedy"
+    },
+    "100194": {
+        "movieId": "100194",
+        "title": "Jim Jefferies: Fully Functional (EPIX) (2012)",
+        "genres": "Comedy"
+    },
+    "100507": {
+        "movieId": "100507",
+        "title": "21 and Over (2013)",
+        "genres": "Comedy"
+    },
+    "101072": {
+        "movieId": "101072",
+        "title": "Unintentional Kidnapping of Mrs. Elfriede Ott, The (Die Unabsichtliche Entf\u00fchrung der Frau Elfriede Ott) (2010)",
+        "genres": "Comedy"
+    },
+    "101283": {
+        "movieId": "101283",
+        "title": "Incredible Burt Wonderstone, The (2013)",
+        "genres": "Comedy"
+    },
+    "102217": {
+        "movieId": "102217",
+        "title": "Bill Hicks: Revelations (1993)",
+        "genres": "Comedy"
+    },
+    "102481": {
+        "movieId": "102481",
+        "title": "Internship, The (2013)",
+        "genres": "Comedy"
+    },
+    "102602": {
+        "movieId": "102602",
+        "title": "Mimino (1977)",
+        "genres": "Comedy"
+    },
+    "102686": {
+        "movieId": "102686",
+        "title": "Hangover Part III, The (2013)",
+        "genres": "Comedy"
+    },
+    "102747": {
+        "movieId": "102747",
+        "title": "Rink, The (1916)",
+        "genres": "Comedy"
+    },
+    "103048": {
+        "movieId": "103048",
+        "title": "Kings of Summer, The (2013)",
+        "genres": "Comedy"
+    },
+    "103171": {
+        "movieId": "103171",
+        "title": "Schlussmacher (2013)",
+        "genres": "Comedy"
+    },
+    "103609": {
+        "movieId": "103609",
+        "title": "Class Act (1992)",
+        "genres": "Comedy"
+    },
+    "103819": {
+        "movieId": "103819",
+        "title": "Coffee Town (2013)",
+        "genres": "Comedy"
+    },
+    "104069": {
+        "movieId": "104069",
+        "title": "Louis C.K.: Oh My God (2013)",
+        "genres": "Comedy"
+    },
+    "104078": {
+        "movieId": "104078",
+        "title": "Alan Partridge: Alpha Papa (2013)",
+        "genres": "Comedy"
+    },
+    "104218": {
+        "movieId": "104218",
+        "title": "Grown Ups 2 (2013)",
+        "genres": "Comedy"
+    },
+    "104339": {
+        "movieId": "104339",
+        "title": "In a World... (2013)",
+        "genres": "Comedy"
+    },
+    "104644": {
+        "movieId": "104644",
+        "title": "Maria Bamford: The Special Special Special! (2012)",
+        "genres": "Comedy"
+    },
+    "105037": {
+        "movieId": "105037",
+        "title": "To Do List, The (2013)",
+        "genres": "Comedy"
+    },
+    "106062": {
+        "movieId": "106062",
+        "title": "Jackass Presents: Bad Grandpa (2013)",
+        "genres": "Comedy"
+    },
+    "106540": {
+        "movieId": "106540",
+        "title": "Delivery Man (2013)",
+        "genres": "Comedy"
+    },
+    "107348": {
+        "movieId": "107348",
+        "title": "Anchorman 2: The Legend Continues (2013)",
+        "genres": "Comedy"
+    },
+    "107565": {
+        "movieId": "107565",
+        "title": "Fuck You, Goethe (Fack Ju G\u00f6hte) (2013)",
+        "genres": "Comedy"
+    },
+    "107630": {
+        "movieId": "107630",
+        "title": "High School (2010)",
+        "genres": "Comedy"
+    },
+    "107702": {
+        "movieId": "107702",
+        "title": "Grudge Match (2013)",
+        "genres": "Comedy"
+    },
+    "109183": {
+        "movieId": "109183",
+        "title": "Date and Switch (2014)",
+        "genres": "Comedy"
+    },
+    "109313": {
+        "movieId": "109313",
+        "title": "Chouchou (2003)",
+        "genres": "Comedy"
+    },
+    "109317": {
+        "movieId": "109317",
+        "title": "Someone Marry Barry (2014)",
+        "genres": "Comedy"
+    },
+    "109416": {
+        "movieId": "109416",
+        "title": "Bring It On: Fight to the Finish (2009)",
+        "genres": "Comedy"
+    },
+    "109576": {
+        "movieId": "109576",
+        "title": "Welcome to the Jungle (2013)",
+        "genres": "Comedy"
+    },
+    "109895": {
+        "movieId": "109895",
+        "title": "Bad Words (2013)",
+        "genres": "Comedy"
+    },
+    "109971": {
+        "movieId": "109971",
+        "title": "Ocho apellidos vascos (2014)",
+        "genres": "Comedy"
+    },
+    "110718": {
+        "movieId": "110718",
+        "title": "Fading Gigolo (2013)",
+        "genres": "Comedy"
+    },
+    "111113": {
+        "movieId": "111113",
+        "title": "Neighbors (2014)",
+        "genres": "Comedy"
+    },
+    "111320": {
+        "movieId": "111320",
+        "title": "Mom's Night Out (2014)",
+        "genres": "Comedy"
+    },
+    "111375": {
+        "movieId": "111375",
+        "title": "Walk of Shame (2014)",
+        "genres": "Comedy"
+    },
+    "111443": {
+        "movieId": "111443",
+        "title": "Chef (2014)",
+        "genres": "Comedy"
+    },
+    "111617": {
+        "movieId": "111617",
+        "title": "Blended (2014)",
+        "genres": "Comedy"
+    },
+    "111800": {
+        "movieId": "111800",
+        "title": "G.B.F. (2013)",
+        "genres": "Comedy"
+    },
+    "112497": {
+        "movieId": "112497",
+        "title": "Tammy (2014)",
+        "genres": "Comedy"
+    },
+    "112788": {
+        "movieId": "112788",
+        "title": "Sex Tape (2014)",
+        "genres": "Comedy"
+    },
+    "113532": {
+        "movieId": "113532",
+        "title": "Inbetweeners 2, The (2014)",
+        "genres": "Comedy"
+    },
+    "115231": {
+        "movieId": "115231",
+        "title": "St. Vincent (2014)",
+        "genres": "Comedy"
+    },
+    "116963": {
+        "movieId": "116963",
+        "title": "Ski School (1991)",
+        "genres": "Comedy"
+    },
+    "116977": {
+        "movieId": "116977",
+        "title": "Dumb and Dumber To (2014)",
+        "genres": "Comedy"
+    },
+    "117109": {
+        "movieId": "117109",
+        "title": "Too Many Cooks (2014)",
+        "genres": "Comedy"
+    },
+    "117511": {
+        "movieId": "117511",
+        "title": "Hello Ladies: The Movie (2014)",
+        "genres": "Comedy"
+    },
+    "117849": {
+        "movieId": "117849",
+        "title": "La Belle Verte (1996)",
+        "genres": "Comedy"
+    },
+    "118512": {
+        "movieId": "118512",
+        "title": "Bring It On: In It To Win It (2007)",
+        "genres": "Comedy"
+    },
+    "118530": {
+        "movieId": "118530",
+        "title": "Fans (1999)",
+        "genres": "Comedy"
+    },
+    "118834": {
+        "movieId": "118834",
+        "title": "National Lampoon's Bag Boy (2007)",
+        "genres": "Comedy"
+    },
+    "118888": {
+        "movieId": "118888",
+        "title": "Dave Chappelle: For What it's Worth (2004)",
+        "genres": "Comedy"
+    },
+    "118924": {
+        "movieId": "118924",
+        "title": "Top Five (2014)",
+        "genres": "Comedy"
+    },
+    "118930": {
+        "movieId": "118930",
+        "title": "Bill Burr: I'm Sorry You Feel That Way (2014)",
+        "genres": "Comedy"
+    },
+    "119153": {
+        "movieId": "119153",
+        "title": "Bill Burr: You People Are All the Same (2012)",
+        "genres": "Comedy"
+    },
+    "119714": {
+        "movieId": "119714",
+        "title": "Corner Gas: The Movie (2014)",
+        "genres": "Comedy"
+    },
+    "119964": {
+        "movieId": "119964",
+        "title": "A Merry Friggin' Christmas (2014)",
+        "genres": "Comedy"
+    },
+    "120807": {
+        "movieId": "120807",
+        "title": "John Mulaney: New In Town (2012)",
+        "genres": "Comedy"
+    },
+    "120813": {
+        "movieId": "120813",
+        "title": "Patton Oswalt: My Weakness Is Strong (2009)",
+        "genres": "Comedy"
+    },
+    "121129": {
+        "movieId": "121129",
+        "title": "The Hungover Games (2014)",
+        "genres": "Comedy"
+    },
+    "121372": {
+        "movieId": "121372",
+        "title": "Bill Burr: Let It Go (2010)",
+        "genres": "Comedy"
+    },
+    "121374": {
+        "movieId": "121374",
+        "title": "Bill Burr: Why Do I Do This? (2008)",
+        "genres": "Comedy"
+    },
+    "121715": {
+        "movieId": "121715",
+        "title": "Sebastian Maniscalco: What's Wrong with People? (2012)",
+        "genres": "Comedy"
+    },
+    "123200": {
+        "movieId": "123200",
+        "title": "Jim Jefferies: I Swear to God (2009)",
+        "genres": "Comedy"
+    },
+    "124273": {
+        "movieId": "124273",
+        "title": "Kevin Smith: Too Fat For 40 (2010)",
+        "genres": "Comedy"
+    },
+    "126548": {
+        "movieId": "126548",
+        "title": "The DUFF (2015)",
+        "genres": "Comedy"
+    },
+    "127098": {
+        "movieId": "127098",
+        "title": "Louis C.K.: Live at The Comedy Store (2015)",
+        "genres": "Comedy"
+    },
+    "127130": {
+        "movieId": "127130",
+        "title": "Mistress America (2015)",
+        "genres": "Comedy"
+    },
+    "127194": {
+        "movieId": "127194",
+        "title": "The D Train (2015)",
+        "genres": "Comedy"
+    },
+    "127204": {
+        "movieId": "127204",
+        "title": "The Overnight (2015)",
+        "genres": "Comedy"
+    },
+    "128089": {
+        "movieId": "128089",
+        "title": "Kevin Hart: I'm a Grown Little Man (2009)",
+        "genres": "Comedy"
+    },
+    "128097": {
+        "movieId": "128097",
+        "title": "Jim Norton: American Degenerate (2013)",
+        "genres": "Comedy"
+    },
+    "128099": {
+        "movieId": "128099",
+        "title": "Jim Jefferies: BARE (2014)",
+        "genres": "Comedy"
+    },
+    "128366": {
+        "movieId": "128366",
+        "title": "Patton Oswalt: Tragedy Plus Comedy Equals Time (2014)",
+        "genres": "Comedy"
+    },
+    "128520": {
+        "movieId": "128520",
+        "title": "The Wedding Ringer (2015)",
+        "genres": "Comedy"
+    },
+    "128852": {
+        "movieId": "128852",
+        "title": "Chris Rock: Bigger & Blacker (1999)",
+        "genres": "Comedy"
+    },
+    "128914": {
+        "movieId": "128914",
+        "title": "Tom Segura: Completely Normal (2014)",
+        "genres": "Comedy"
+    },
+    "129011": {
+        "movieId": "129011",
+        "title": "Eddie Izzard: Glorious (1997)",
+        "genres": "Comedy"
+    },
+    "129313": {
+        "movieId": "129313",
+        "title": "Reality (2014)",
+        "genres": "Comedy"
+    },
+    "129514": {
+        "movieId": "129514",
+        "title": "George Carlin: It's Bad for Ya! (2008)",
+        "genres": "Comedy"
+    },
+    "129737": {
+        "movieId": "129737",
+        "title": "Unfinished Business (2015)",
+        "genres": "Comedy"
+    },
+    "130498": {
+        "movieId": "130498",
+        "title": "La v\u00e9rit\u00e9 si je mens ! (1997)",
+        "genres": "Comedy"
+    },
+    "130970": {
+        "movieId": "130970",
+        "title": "George Carlin: Life Is Worth Losing (2005)",
+        "genres": "Comedy"
+    },
+    "131237": {
+        "movieId": "131237",
+        "title": "What Men Talk About (2010)",
+        "genres": "Comedy"
+    },
+    "131578": {
+        "movieId": "131578",
+        "title": "Reckless Kelly (1994)",
+        "genres": "Comedy"
+    },
+    "131749": {
+        "movieId": "131749",
+        "title": "Libre et assoupi (2014)",
+        "genres": "Comedy"
+    },
+    "131826": {
+        "movieId": "131826",
+        "title": "Iliza Shlesinger: Freezing Hot (2015)",
+        "genres": "Comedy"
+    },
+    "131934": {
+        "movieId": "131934",
+        "title": "The Malibu Bikini Shop (1986)",
+        "genres": "Comedy"
+    },
+    "132888": {
+        "movieId": "132888",
+        "title": "Comedy Central Roast of James Franco (2013)",
+        "genres": "Comedy"
+    },
+    "133419": {
+        "movieId": "133419",
+        "title": "Pitch Perfect 2 (2015)",
+        "genres": "Comedy"
+    },
+    "133879": {
+        "movieId": "133879",
+        "title": "Carry On Don't Lose Your Head (1966)",
+        "genres": "Comedy"
+    },
+    "134109": {
+        "movieId": "134109",
+        "title": "Radio Day (2008)",
+        "genres": "Comedy"
+    },
+    "134184": {
+        "movieId": "134184",
+        "title": "Elections Day (2007)",
+        "genres": "Comedy"
+    },
+    "134326": {
+        "movieId": "134326",
+        "title": "The Taming of the Scoundrel (1980)",
+        "genres": "Comedy"
+    },
+    "134334": {
+        "movieId": "134334",
+        "title": "Phir Hera Pheri (2006)",
+        "genres": "Comedy"
+    },
+    "134783": {
+        "movieId": "134783",
+        "title": "Entourage (2015)",
+        "genres": "Comedy"
+    },
+    "134808": {
+        "movieId": "134808",
+        "title": "No Way Jose (2015)",
+        "genres": "Comedy"
+    },
+    "134847": {
+        "movieId": "134847",
+        "title": "Ghost Graduation (2012)",
+        "genres": "Comedy"
+    },
+    "135861": {
+        "movieId": "135861",
+        "title": "Ted 2 (2015)",
+        "genres": "Comedy"
+    },
+    "136443": {
+        "movieId": "136443",
+        "title": "Gabriel Iglesias: Hot and Fluffy (2007)",
+        "genres": "Comedy"
+    },
+    "136445": {
+        "movieId": "136445",
+        "title": "George Carlin: Back in Town (1996)",
+        "genres": "Comedy"
+    },
+    "136447": {
+        "movieId": "136447",
+        "title": "George Carlin: You Are All Diseased (1999)",
+        "genres": "Comedy"
+    },
+    "136469": {
+        "movieId": "136469",
+        "title": "Larry David: Curb Your Enthusiasm (1999)",
+        "genres": "Comedy"
+    },
+    "136511": {
+        "movieId": "136511",
+        "title": "Jeff Dunham: All Over the Map (2014)",
+        "genres": "Comedy"
+    },
+    "136540": {
+        "movieId": "136540",
+        "title": "The FP (2012)",
+        "genres": "Comedy"
+    },
+    "136666": {
+        "movieId": "136666",
+        "title": "Search Party (2014)",
+        "genres": "Comedy"
+    },
+    "138204": {
+        "movieId": "138204",
+        "title": "7 Days in Hell (2015)",
+        "genres": "Comedy"
+    },
+    "138546": {
+        "movieId": "138546",
+        "title": "The Opposite Sex (2014)",
+        "genres": "Comedy"
+    },
+    "138798": {
+        "movieId": "138798",
+        "title": "Joe Dirt 2: Beautiful Loser (2015)",
+        "genres": "Comedy"
+    },
+    "140038": {
+        "movieId": "140038",
+        "title": "Madly in Love (1981)",
+        "genres": "Comedy"
+    },
+    "140110": {
+        "movieId": "140110",
+        "title": "The Intern (2015)",
+        "genres": "Comedy"
+    },
+    "140265": {
+        "movieId": "140265",
+        "title": "George Carlin: Jammin' in New York (1992)",
+        "genres": "Comedy"
+    },
+    "141513": {
+        "movieId": "141513",
+        "title": "Fort Tilden (2014)",
+        "genres": "Comedy"
+    },
+    "141820": {
+        "movieId": "141820",
+        "title": "Old Men: Robbers (1971)",
+        "genres": "Comedy"
+    },
+    "141836": {
+        "movieId": "141836",
+        "title": "It Can't Be! (1975)",
+        "genres": "Comedy"
+    },
+    "142020": {
+        "movieId": "142020",
+        "title": "Oscar (1967)",
+        "genres": "Comedy"
+    },
+    "142422": {
+        "movieId": "142422",
+        "title": "The Night Before (2015)",
+        "genres": "Comedy"
+    },
+    "142558": {
+        "movieId": "142558",
+        "title": "If I Were a Rich Man (2002)",
+        "genres": "Comedy"
+    },
+    "142602": {
+        "movieId": "142602",
+        "title": "F*ck You, Goethe 2 (2015)",
+        "genres": "Comedy"
+    },
+    "142831": {
+        "movieId": "142831",
+        "title": "Garam Masala (2005)",
+        "genres": "Comedy"
+    },
+    "143859": {
+        "movieId": "143859",
+        "title": "Hail, Caesar! (2016)",
+        "genres": "Comedy"
+    },
+    "143969": {
+        "movieId": "143969",
+        "title": "Er ist wieder da (2015)",
+        "genres": "Comedy"
+    },
+    "144222": {
+        "movieId": "144222",
+        "title": "Bros Before Hos (2013)",
+        "genres": "Comedy"
+    },
+    "144716": {
+        "movieId": "144716",
+        "title": "Rock the Kasbah (2015)",
+        "genres": "Comedy"
+    },
+    "145994": {
+        "movieId": "145994",
+        "title": "Formula of Love (1984)",
+        "genres": "Comedy"
+    },
+    "146210": {
+        "movieId": "146210",
+        "title": "Blue Mountain State: The Rise of Thadland (2015)",
+        "genres": "Comedy"
+    },
+    "146986": {
+        "movieId": "146986",
+        "title": "Le Ma\u00eetre d'\u00e9cole (1981)",
+        "genres": "Comedy"
+    },
+    "147282": {
+        "movieId": "147282",
+        "title": "What Men Still Talk About (2011)",
+        "genres": "Comedy"
+    },
+    "148238": {
+        "movieId": "148238",
+        "title": "A Very Murray Christmas (2015)",
+        "genres": "Comedy"
+    },
+    "148592": {
+        "movieId": "148592",
+        "title": "Just Jim (2015)",
+        "genres": "Comedy"
+    },
+    "148632": {
+        "movieId": "148632",
+        "title": "Applesauce (2015)",
+        "genres": "Comedy"
+    },
+    "148667": {
+        "movieId": "148667",
+        "title": "John Mulaney: The Comeback Kid (2015)",
+        "genres": "Comedy"
+    },
+    "148888": {
+        "movieId": "148888",
+        "title": "Zoolander 2 (2016)",
+        "genres": "Comedy"
+    },
+    "149352": {
+        "movieId": "149352",
+        "title": "Daddy's Home (2015)",
+        "genres": "Comedy"
+    },
+    "150604": {
+        "movieId": "150604",
+        "title": "Moonwalkers (2015)",
+        "genres": "Comedy"
+    },
+    "151311": {
+        "movieId": "151311",
+        "title": "Wiener-Dog (2016)",
+        "genres": "Comedy"
+    },
+    "151317": {
+        "movieId": "151317",
+        "title": "Maggie's Plan (2015)",
+        "genres": "Comedy"
+    },
+    "151455": {
+        "movieId": "151455",
+        "title": "Eddie the Eagle (2016)",
+        "genres": "Comedy"
+    },
+    "151739": {
+        "movieId": "151739",
+        "title": "Dirty Grandpa (2016)",
+        "genres": "Comedy"
+    },
+    "152091": {
+        "movieId": "152091",
+        "title": "The Brothers Grimsby (2016)",
+        "genres": "Comedy"
+    },
+    "152105": {
+        "movieId": "152105",
+        "title": "Dad's Army (1971)",
+        "genres": "Comedy"
+    },
+    "154065": {
+        "movieId": "154065",
+        "title": "Dad's Army (2016)",
+        "genres": "Comedy"
+    },
+    "155168": {
+        "movieId": "155168",
+        "title": "Fraktus (2012)",
+        "genres": "Comedy"
+    },
+    "155743": {
+        "movieId": "155743",
+        "title": "My Big Fat Greek Wedding 2 (2016)",
+        "genres": "Comedy"
+    },
+    "155812": {
+        "movieId": "155812",
+        "title": "Get a Job (2016)",
+        "genres": "Comedy"
+    },
+    "155820": {
+        "movieId": "155820",
+        "title": "Keanu (2016)",
+        "genres": "Comedy"
+    },
+    "155892": {
+        "movieId": "155892",
+        "title": "Me Him Her (2015)",
+        "genres": "Comedy"
+    },
+    "156371": {
+        "movieId": "156371",
+        "title": "Everybody Wants Some (2016)",
+        "genres": "Comedy"
+    },
+    "156609": {
+        "movieId": "156609",
+        "title": "Neighbors 2: Sorority Rising (2016)",
+        "genres": "Comedy"
+    },
+    "156781": {
+        "movieId": "156781",
+        "title": "Jimmy Carr: Telling Jokes (2009)",
+        "genres": "Comedy"
+    },
+    "156783": {
+        "movieId": "156783",
+        "title": "Jimmy Carr: Making People Laugh (2010)",
+        "genres": "Comedy"
+    },
+    "157270": {
+        "movieId": "157270",
+        "title": "Barbershop: The Next Cut (2016)",
+        "genres": "Comedy"
+    },
+    "157312": {
+        "movieId": "157312",
+        "title": "The Boss (2016)",
+        "genres": "Comedy"
+    },
+    "158022": {
+        "movieId": "158022",
+        "title": "Kicking Off (2016)",
+        "genres": "Comedy"
+    },
+    "158398": {
+        "movieId": "158398",
+        "title": "World of Glory (1991)",
+        "genres": "Comedy"
+    },
+    "159069": {
+        "movieId": "159069",
+        "title": "Comedy of the Strict Regime (1993)",
+        "genres": "Comedy"
+    },
+    "159441": {
+        "movieId": "159441",
+        "title": "The Do-Over (2016)",
+        "genres": "Comedy"
+    },
+    "159755": {
+        "movieId": "159755",
+        "title": "Popstar: Never Stop Never Stopping (2016)",
+        "genres": "Comedy"
+    },
+    "159849": {
+        "movieId": "159849",
+        "title": "Bo Burnham: Make Happy (2016)",
+        "genres": "Comedy"
+    },
+    "160567": {
+        "movieId": "160567",
+        "title": "Mike & Dave Need Wedding Dates (2016)",
+        "genres": "Comedy"
+    },
+    "161024": {
+        "movieId": "161024",
+        "title": "Jim Jefferies: Freedumb (2016)",
+        "genres": "Comedy"
+    },
+    "161131": {
+        "movieId": "161131",
+        "title": "War Dogs (2016)",
+        "genres": "Comedy"
+    },
+    "161580": {
+        "movieId": "161580",
+        "title": "Bad Moms (2016)",
+        "genres": "Comedy"
+    },
+    "161922": {
+        "movieId": "161922",
+        "title": "The Edge of Seventeen (2016)",
+        "genres": "Comedy"
+    },
+    "162344": {
+        "movieId": "162344",
+        "title": "Tom Segura: Mostly Stories (2016)",
+        "genres": "Comedy"
+    },
+    "163527": {
+        "movieId": "163527",
+        "title": "Comedy Central Roast of David Hasselhoff (2010)",
+        "genres": "Comedy"
+    },
+    "163653": {
+        "movieId": "163653",
+        "title": "David Cross: Making America Great Again (2016)",
+        "genres": "Comedy"
+    },
+    "164375": {
+        "movieId": "164375",
+        "title": "All Roads Lead to Rome (2016)",
+        "genres": "Comedy"
+    },
+    "165103": {
+        "movieId": "165103",
+        "title": "Keeping Up with the Joneses (2016)",
+        "genres": "Comedy"
+    },
+    "165139": {
+        "movieId": "165139",
+        "title": "Wild Oats (2016)",
+        "genres": "Comedy"
+    },
+    "165483": {
+        "movieId": "165483",
+        "title": "Joe Rogan: Triggered (2016)",
+        "genres": "Comedy"
+    },
+    "165645": {
+        "movieId": "165645",
+        "title": "Bad Santa 2 (2016)",
+        "genres": "Comedy"
+    },
+    "166492": {
+        "movieId": "166492",
+        "title": "Office Christmas Party (2016)",
+        "genres": "Comedy"
+    },
+    "167018": {
+        "movieId": "167018",
+        "title": "Why Him? (2016)",
+        "genres": "Comedy"
+    },
+    "167634": {
+        "movieId": "167634",
+        "title": "Fist Fight (2017)",
+        "genres": "Comedy"
+    },
+    "167854": {
+        "movieId": "167854",
+        "title": "Dana Carvey: Straight White Male, 60 (2016)",
+        "genres": "Comedy"
+    },
+    "168144": {
+        "movieId": "168144",
+        "title": "Joe Rogan: Live (2006)",
+        "genres": "Comedy"
+    },
+    "168174": {
+        "movieId": "168174",
+        "title": "Jim Gaffigan: Cinco (2017)",
+        "genres": "Comedy"
+    },
+    "168632": {
+        "movieId": "168632",
+        "title": "Bill Burr: Walk Your Way Out (2017)",
+        "genres": "Comedy"
+    },
+    "168846": {
+        "movieId": "168846",
+        "title": "Neal Brennan: 3 Mics (2017)",
+        "genres": "Comedy"
+    },
+    "169912": {
+        "movieId": "169912",
+        "title": "Denis Leary: No Cure for Cancer (1993)",
+        "genres": "Comedy"
+    },
+    "170357": {
+        "movieId": "170357",
+        "title": "Dave Chappelle: The Age of Spin (2017)",
+        "genres": "Comedy"
+    },
+    "170411": {
+        "movieId": "170411",
+        "title": "Dave Chappelle: Deep in the Heart of Texas (2017)",
+        "genres": "Comedy"
+    },
+    "170551": {
+        "movieId": "170551",
+        "title": "The Quiet Family (1998)",
+        "genres": "Comedy"
+    },
+    "170897": {
+        "movieId": "170897",
+        "title": "Sandy Wexler (2017)",
+        "genres": "Comedy"
+    },
+    "170937": {
+        "movieId": "170937",
+        "title": "Win It All (2017)",
+        "genres": "Comedy"
+    },
+    "171695": {
+        "movieId": "171695",
+        "title": "Robin Williams: Live on Broadway (2002)",
+        "genres": "Comedy"
+    },
+    "171751": {
+        "movieId": "171751",
+        "title": "Munna bhai M.B.B.S. (2003)",
+        "genres": "Comedy"
+    },
+    "172215": {
+        "movieId": "172215",
+        "title": "Saved by the Bell: Hawaiian Style (1992)",
+        "genres": "Comedy"
+    },
+    "172253": {
+        "movieId": "172253",
+        "title": "The Night Before (1988)",
+        "genres": "Comedy"
+    },
+    "172321": {
+        "movieId": "172321",
+        "title": "Late Night with Conan O'Brien: The Best of Triumph the Insult Comic Dog (2004)",
+        "genres": "Comedy"
+    },
+    "173205": {
+        "movieId": "173205",
+        "title": "The Meyerowitz Stories (2017)",
+        "genres": "Comedy"
+    },
+    "173253": {
+        "movieId": "173253",
+        "title": "Vir Das: Abroad Understanding (2017)",
+        "genres": "Comedy"
+    },
+    "173255": {
+        "movieId": "173255",
+        "title": "Norm Macdonald: Hitler's Dog, Gossip & Trickery (2017)",
+        "genres": "Comedy"
+    },
+    "173963": {
+        "movieId": "173963",
+        "title": "Empties (2007)",
+        "genres": "Comedy"
+    },
+    "174045": {
+        "movieId": "174045",
+        "title": "Goon: Last of the Enforcers (2017)",
+        "genres": "Comedy"
+    },
+    "174551": {
+        "movieId": "174551",
+        "title": "Obsession (1965)",
+        "genres": "Comedy"
+    },
+    "174681": {
+        "movieId": "174681",
+        "title": "Oh, Hello: On Broadway (2017)",
+        "genres": "Comedy"
+    },
+    "174737": {
+        "movieId": "174737",
+        "title": "Don Camillo in Moscow (1965)",
+        "genres": "Comedy"
+    },
+    "174815": {
+        "movieId": "174815",
+        "title": "The House (2017)",
+        "genres": "Comedy"
+    },
+    "174909": {
+        "movieId": "174909",
+        "title": "Logan Lucky (2017)",
+        "genres": "Comedy"
+    },
+    "175577": {
+        "movieId": "175577",
+        "title": "Rory Scovel Tries Stand-Up for the First Time (2017)",
+        "genres": "Comedy"
+    },
+    "175743": {
+        "movieId": "175743",
+        "title": "Self-criticism of a Bourgeois Dog (2017)",
+        "genres": "Comedy"
+    },
+    "175781": {
+        "movieId": "175781",
+        "title": "Der Herr Karl (1961)",
+        "genres": "Comedy"
+    },
+    "176329": {
+        "movieId": "176329",
+        "title": "Ari Shaffir: Double Negative (2017)",
+        "genres": "Comedy"
+    },
+    "177185": {
+        "movieId": "177185",
+        "title": "Maz Jobrani: Immigrant (2017)",
+        "genres": "Comedy"
+    },
+    "177615": {
+        "movieId": "177615",
+        "title": "Lady Bird (2017)",
+        "genres": "Comedy"
+    },
+    "178613": {
+        "movieId": "178613",
+        "title": "Dave Chappelle: Killin' Them Softly (2000)",
+        "genres": "Comedy"
+    },
+    "179073": {
+        "movieId": "179073",
+        "title": "Male Hunt (1964)",
+        "genres": "Comedy"
+    },
+    "179119": {
+        "movieId": "179119",
+        "title": "The Death of Stalin (2017)",
+        "genres": "Comedy"
+    },
+    "179211": {
+        "movieId": "179211",
+        "title": "Christina P: Mother Inferior (2017)",
+        "genres": "Comedy"
+    },
+    "179427": {
+        "movieId": "179427",
+        "title": "Dane Cook: Troublemaker (2014)",
+        "genres": "Comedy"
+    },
+    "179953": {
+        "movieId": "179953",
+        "title": "A Bad Moms Christmas (2017)",
+        "genres": "Comedy"
+    },
+    "181065": {
+        "movieId": "181065",
+        "title": "Jack Whitehall: At Large (2017)",
+        "genres": "Comedy"
+    },
+    "181139": {
+        "movieId": "181139",
+        "title": "Lynne Koplitz: Hormonal Beast (2017)",
+        "genres": "Comedy"
+    },
+    "181659": {
+        "movieId": "181659",
+        "title": "Craig Ferguson: Tickle Fight (2017)",
+        "genres": "Comedy"
+    },
+    "182749": {
+        "movieId": "182749",
+        "title": "Judd Apatow: The Return (2017)",
+        "genres": "Comedy"
+    },
+    "183197": {
+        "movieId": "183197",
+        "title": "Dave Chappelle: Equanimity (2017)",
+        "genres": "Comedy"
+    },
+    "183227": {
+        "movieId": "183227",
+        "title": "Dave Chappelle: The Bird Revelation (2017)",
+        "genres": "Comedy"
+    },
+    "183911": {
+        "movieId": "183911",
+        "title": "The Clapper (2018)",
+        "genres": "Comedy"
+    },
+    "183959": {
+        "movieId": "183959",
+        "title": "Tom Segura: Disgraceful (2018)",
+        "genres": "Comedy"
+    },
+    "184015": {
+        "movieId": "184015",
+        "title": "When We First Met (2018)",
+        "genres": "Comedy"
+    },
+    "184791": {
+        "movieId": "184791",
+        "title": "Fred Armisen: Standup for Drummers (2018)",
+        "genres": "Comedy"
+    },
+    "185473": {
+        "movieId": "185473",
+        "title": "Blockers (2018)",
+        "genres": "Comedy"
+    },
+    "188797": {
+        "movieId": "188797",
+        "title": "Tag (2018)",
+        "genres": "Comedy"
+    },
+    "190209": {
+        "movieId": "190209",
+        "title": "Jeff Ross Roasts the Border (2017)",
+        "genres": "Comedy"
+    },
+    "193609": {
+        "movieId": "193609",
+        "title": "Andrew Dice Clay: Dice Rules (1991)",
+        "genres": "Comedy"
+    }
+}
