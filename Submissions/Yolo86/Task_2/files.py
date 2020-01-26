@@ -3,8 +3,7 @@ import shutil
 
 os.chdir('../../../Task_2/My_Files/')
 b = os.getcwd()
-
-for fi in os.listdir():
+for fi in os.listdir(b):
 	try:
 		fna,fext = fi.split('.')
 		if os.path.exists(b+'/'+fext):
