@@ -1,8 +1,13 @@
-import smtplib, ssl
-mailid = input("Please enter Your email Id:\t")
-password = input("Type your password and press enter:\t")
-mailid_rec = input("Enter the mail id of receiver:\t")
-message = input("Enter the message:\t")
-server = smtplib.SMTP("smtp.gmail.com",587)
-server.login(mailid,password)
-server.sendmail(mailid,mailid_rec,message)
+import smtplib, getpass
+server = smtplib.SMTP('smtp.gmail.com',587)
+server.starttls()
+id = getpass.getpass('mailid_sender:\t)
+pwd = getpass.getpass('password:\t')
+server.login(id,pwd)
+reciever = input("Enter the mail ID of the reciever:\t")
+subject = input("Sebject:\t")
+message = input("message to convey:\t")
+mail_body = "subject: " + subject + "\n" + "Message: " + message
+server.sendmail(id,reciever,mail_body)
+server.quit()
+
