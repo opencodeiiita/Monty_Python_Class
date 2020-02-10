@@ -1,0 +1,11 @@
+import smtplib
+mail=smtplib.SMTP('smtp.gmail.com',587)
+mail.ehlo()
+mail.starttls()
+mail_id=input("E-Mail ID:")
+password=input("Password:")
+mail.login(mail_id,password)
+To_id=input("T0:")
+message=input("Type Text Here:")
+mail.sendmail(mail_id,To_id,message)
+mail.close()
